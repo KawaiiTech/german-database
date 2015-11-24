@@ -1,0 +1,20 @@
+der Arzt 	médico 	. 	. 	. 	¨-e 	sust
+der Kaufmann	comerciante	. 	. 	. 	-leute	sust
+der Praktikant	becario 	. 	. 	. 	-en 	sust
+der Verkäufer	vendedor 	. 	. 	. 	-	sust
+anstellen	contratar 	. 	stellte an, angestellt 	. 	. 	v 
+selbstständig	autónomo	.	.	independiente (adj: unabhängig independiente; adj: beruflich por su propia cuenta; adv: por sí solo)	.	adj
+der Beruf 	profesión 	.	.	.	-e 	sust
+die Ausbildung 	formación profesional	.	.	.	-en 	sust
+die Kenntnisse 	conocimientos 	.	.	plural	(pl) 	sust
+der Schüler 	alumno 	.	.	.	-	sust
+das Semester 	semestre 	.	.	.	-	sust
+die Wirtschaft	Economía	.	.	.	-en 	sust
+die Pädagogik	Pedagogía	.	.	.	- 	sust 
+zur Schule gehen 	ir a la escuela 
+der Monat 	mes 	.	.	.	-e 	sust
+der Januar	enero 	.	.	.	-e 	sust
+der März	marzo 	.	.	.	-e 	sust
+der April 	abril	.	.	.	-e 	sust
+der Mai 	mayo 	.	.	.	-e 	sust
+der Juni 	junio	.	.	.	-s 	sust
