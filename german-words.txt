@@ -18,3 +18,33 @@ der März	marzo 	.	.	.	-e 	sust
 der April 	abril	.	.	.	-e 	sust
 der Mai 	mayo 	.	.	.	-e 	sust
 der Juni 	junio	.	.	.	-s 	sust
+der Juli 	julio 	.	.	.	-s 	sust
+der August 	agosto 	.	.	.	-e 	sust
+der September 	septiembre 	.	.	.	- 	sust
+der Oktober 	octubre 	.	.	.	- 	sust
+der November 	noviembre 	.	.	.	- 	sust
+der Dezember 	diciembre 	.	.	.	-	sust
+Seit wann? 	¿Desde cuándo?
+Wie lange? 	¿cuánto tiempo?
+das Kenntnis 	conocimiento 	. 	. 	das Bekanntsein 	(ohne pl) 	sust
+für ein Jahr 	por un año
+im letzten Frühling 	en la última primavera
+jeden Tag 	cada día
+nächsten Monat 	próximo mes
+seit Jahren 	hace años
+vor Jahren 	por años
+Anfang Januar 	principios de enero
+mitte Januar 	mediados de enero
+Ende Januar 	finales de enero
+später 	más tarde
+in den Bergen 	en la montaña
+das Land 	país 	.	.	.	¨-er 	sust
+das Meer 	mar 	.	.	. 	-e 	sust
+der See 	lago 	.	.	die See, - = el mar 	-n 	sust
+die Ortsangabe 	indicación de lugar 	.	.	.	-n 	sust
+die Antwort 	respuesta 	.	.	.	-en 	sust
+die Blume 	flor 	.	.	.	-n 	sust
+der/die Erwachsene 	adulto 	.	.	.	-n 	sust
+das Fest 	fiesta 	.	.	.	-e 	sust
+der Führerschein 	permiso de conducir 	.	.	.	-e 	sust
+die Hochzeit 	boda 	.	.	.	-en 	sust 
