@@ -11,7 +11,6 @@ der Schüler 	alumno 	.	.	.	-	sust
 das Semester 	semestre 	.	.	.	-	sust
 die Wirtschaft	Economía	.	.	.	-en 	sust
 die Pädagogik	Pedagogía	.	.	.	- 	sust 
-zur Schule gehen 	ir a la escuela 
 der Monat 	mes 	.	.	.	-e 	sust
 der Januar	enero 	.	.	.	-e 	sust
 der März	marzo 	.	.	.	-e 	sust
@@ -48,3 +47,4 @@ der/die Erwachsene 	adulto 	.	.	.	-n 	sust
 das Fest 	fiesta 	.	.	.	-e 	sust
 der Führerschein 	permiso de conducir 	.	.	.	-e 	sust
 die Hochzeit 	boda 	.	.	.	-en 	sust 
+zur Schule gehen 	ir a la escuela 
