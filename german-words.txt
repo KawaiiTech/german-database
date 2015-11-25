@@ -56,15 +56,15 @@ die Puppe 	muñeca 	.	.	.	-n 	sust
 der Stress 	estrés 	.	.	.	(ohne pl) 	sust
 das Tier 	animal 	.	.	.	-e 	sust
 der Traum 	sueño 	.	.	.	¨-e 	sust
-das Wissen  el saber 	.	.	.	(ohne pl) 	sust
+das Wissen 	el saber 	.	.	.	(ohne pl) 	sust
 bringen 	traer 	.	brachte gebracht 	.	.	v
 unterrichten 	dar clases 	.	unterrichtete unterrichtet 	.	.	v
-verkaufen vender 	.	verkaufte verkauft 	.	.	v
+verkaufen 	vender 	.	verkaufte verkauft 	.	.	v
 glücklich 	feliz 	.	.	froh 	.	adj
 jung 	joven 	.	.	.	.	adj
 müde 	cansado 	.	.	.	.	adj
 wütend 	furioso	.	.	.	.	adj 
-nämlich 	porque, es que, en concreto 	(genauer gesagt) Nächste Woche, nämlich am Dienstag, fahren wir in den Urlaub. (denn) Er kommt später. Er hatte nämlich einen Unfall. 	.	. 	.adv
+nämlich 	porque, es que, en concreto 	(genauer gesagt) Nächste Woche, nämlich am Dienstag, fahren wir in den Urlaub. (denn) Er kommt später. Er hatte nämlich einen Unfall. 	.	. 	. 	adv
 noch nicht 	todavía no 	.	.	.	.	.
 selbst 	mismo 	.	.	.	.	pronombre demostrativo
 überhaupt	en general 	.	.	.	.	adv
@@ -78,7 +78,7 @@ die Sehenswürdigkeit 	monumento 	.	.	. 	-en 	sust
 der Turm 	torre 	.	.	.	¨-e 	sust
 reservieren 	reservar 	.	reservierte reserviert 	.	.	v 
 gleich alt 	misma edad
-der Tierarzt 	veterinario 	.	.	.	¨-e sust
+der Tierarzt 	veterinario 	.	.	.	¨-e 	sust
 der Schreiner 	carpintero	.	.	.	- 	sust
 bei mir 	conmigo
 die Lieferung 	entrega 	.	.	.	-en 	sust
