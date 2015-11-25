@@ -48,3 +48,53 @@ das Fest 	fiesta 	.	.	.	-e 	sust
 der Führerschein 	permiso de conducir 	.	.	.	-e 	sust
 die Hochzeit 	boda 	.	.	.	-en 	sust 
 zur Schule gehen 	ir a la escuela 
+die Idee 	idea 	.	.	.	-n 	sust
+der Kindergarten 	jardín de infancia 	.	.	.	¨- 	sust
+der Kunde 	cliente 	.	.	.	-n 	sust
+das Paket 	paquete 	.	.	.	-e 	sust
+die Puppe 	muñeca 	.	.	.	-n 	sust
+der Stress 	estrés 	.	.	.	(ohne pl) 	sust
+das Tier 	animal 	.	.	.	-e 	sust
+der Traum 	sueño 	.	.	.	¨-e 	sust
+das Wissen  el saber 	.	.	.	(ohne pl) 	sust
+bringen 	traer 	.	brachte gebracht 	.	.	v
+unterrichten 	dar clases 	.	unterrichtete unterrichtet 	.	.	v
+verkaufen vender 	.	verkaufte verkauft 	.	.	v
+glücklich 	feliz 	.	.	froh 	.	adj
+jung 	joven 	.	.	.	.	adj
+müde 	cansado 	.	.	.	.	adj
+wütend 	furioso	.	.	.	.	adj 
+nämlich 	porque, es que, en concreto 	(genauer gesagt) Nächste Woche, nämlich am Dienstag, fahren wir in den Urlaub. (denn) Er kommt später. Er hatte nämlich einen Unfall. 	.	. 	.adv
+noch nicht 	todavía no 	.	.	.	.	.
+selbst 	mismo 	.	.	.	.	pronombre demostrativo
+überhaupt	en general 	.	.	.	.	adv
+wenig 	poco 	.	.	.	.	adv/adj/pron indef
+der Dom 	catedral 	.	.	.	-e 	sust
+der Eintritt 	entrada 	.	.	.	-e 	sust
+die Führung 	dirección 	.	.	de una empresa/tienda 	-en 	sust 
+die Gebühr 	tasa 	.	.	.	-en 	sust  
+das Konzert 	concierto	.	.	.	-e 	sust
+die Sehenswürdigkeit 	monumento 	.	.	. 	-en 	sust
+der Turm 	torre 	.	.	.	¨-e 	sust
+reservieren 	reservar 	.	reservierte reserviert 	.	.	v 
+gleich alt 	misma edad
+der Tierarzt 	veterinario 	.	.	.	¨-e sust
+der Schreiner 	carpintero	.	.	.	- 	sust
+bei mir 	conmigo
+die Lieferung 	entrega 	.	.	.	-en 	sust
+der Lieferant 	proveedor	.	.	.	-en 	sust
+der Ausflug 	excursión 	.	.	.	¨-e 	sust
+das Programm 	programa 	.	.	.	-e 	sust
+das Rathaus 	ayuntamiento 	.	.	.	¨-er 	sust 
+die Stadtführung 	visita guiada en la ciudad 	.	.	.	-en 	sust
+der Stadtplan 	mapa de la ciudad 	.	.	.	¨-e 	sust
+die Stadtrundfahrt 	vuelta por la ciudad 	.	.	.	-en 	sust 
+das Ticket 	tíquet 	.	.	.	-s 	sust
+der Tourist 	turista	.	.	.	-en 	sust
+das Zentrum 	centro 	.	.	.	Zentren 	sust
+unternehmen 	realizar	Heute Abend wollen wir gemeinsam etwas unternehmen. 	unternahm unternommen 	hacer algo por propio placer 	.	v
+das Gepäck 	equipaje 	.	.	.	(ohne pl) 	sust
+das Doppelzimmer 	habitación doble	.	.	.	- 	sust
+das Einzelzimmer 	habitación individual 	.	.	.	- 	sust
+die Vollpension 	pensión completa	.	.	.	- 	sust
+die Jugendherberge 	albergue juvenil 	.	.	.	-	sust
