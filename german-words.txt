@@ -57,9 +57,9 @@ der Stress 	estrés 	.	.	.	(ohne pl) 	sust
 das Tier 	animal 	.	.	.	-e 	sust
 der Traum 	sueño 	.	.	.	¨-e 	sust
 das Wissen 	el saber 	.	.	.	(ohne pl) 	sust
-bringen 	traer 	.	brachte gebracht 	.	.	v
-unterrichten 	dar clases 	.	unterrichtete unterrichtet 	.	.	v
-verkaufen 	vender 	.	verkaufte verkauft 	.	.	v
+bringen 	traer 	.	brachte, gebracht 	.	.	v
+unterrichten 	dar clases 	.	unterrichtete, unterrichtet 	.	.	v
+verkaufen 	vender 	.	verkaufte, verkauft 	.	.	v
 glücklich 	feliz 	.	.	froh 	.	adj
 jung 	joven 	.	.	.	.	adj
 müde 	cansado 	.	.	.	.	adj
@@ -76,7 +76,7 @@ die Gebühr 	tasa 	.	.	.	-en 	sust
 das Konzert 	concierto	.	.	.	-e 	sust
 die Sehenswürdigkeit 	monumento 	.	.	. 	-en 	sust
 der Turm 	torre 	.	.	.	¨-e 	sust
-reservieren 	reservar 	.	reservierte reserviert 	.	.	v 
+reservieren 	reservar 	.	reservierte, reserviert 	.	.	v 
 gleich alt 	misma edad
 der Tierarzt 	veterinario 	.	.	.	¨-e 	sust
 der Schreiner 	carpintero	.	.	.	- 	sust
@@ -92,9 +92,59 @@ die Stadtrundfahrt 	vuelta por la ciudad 	.	.	.	-en 	sust
 das Ticket 	tíquet 	.	.	.	-s 	sust
 der Tourist 	turista	.	.	.	-en 	sust
 das Zentrum 	centro 	.	.	.	Zentren 	sust
-unternehmen 	realizar	Heute Abend wollen wir gemeinsam etwas unternehmen. 	unternahm unternommen 	hacer algo por propio placer 	.	v
+unternehmen 	realizar	Heute Abend wollen wir gemeinsam etwas unternehmen. 	unternahm, unternommen 	hacer algo por propio placer 	.	v
 das Gepäck 	equipaje 	.	.	.	(ohne pl) 	sust
 das Doppelzimmer 	habitación doble	.	.	.	- 	sust
 das Einzelzimmer 	habitación individual 	.	.	.	- 	sust
 die Vollpension 	pensión completa	.	.	.	- 	sust
 die Jugendherberge 	albergue juvenil 	.	.	.	-	sust
+die Rezeption 	recepción 	.	.	.	-	sust
+die Übernachtung 	pernoctación 	.	.	.	-en 	sust
+der Ausweis 	DNI 	.	.	.	-e 	sust
+das Auto 	coche 	.	.	.	-s 	sust
+Auto fahren 	ir en coche 
+der Automat 	máquina 	.	.	máquina automática (p.ej. cajero)	-en 	sust
+der Besuch 	visita 	.	.	.	-e 	sust
+der Blick 	mirada, vistazo 	.	.	.	-e 	sust
+der Feiertag 	día festivo 	.	.	.	-e 	sust
+das Fenster 	ventana 	.	.	.	- 	sust
+der Fahrer 	conductor 	.	.	.	- 	sust
+das Glas 	vidrio, vaso 	.	.	.	¨-er 	sust
+der Haushalt 	hogar 	.	.	.	- 	sust
+die Höhe 	altura 	.	.	.	-n 	sust
+die Kasse 	caja 	.	.	supermercado 	-n 	sust
+der König 	rey 	.	.	.	-e 	sust
+der Meter 	metro 	.	.	unidad de longitud 	- 	sust
+die Minute 	minuto 	.	.	.	-n 	sust
+das Papier 	papel 	.	.	.	-e 	sust
+der Pass 	pasaporte 	.	.	.	¨-e 	sust
+die Postkarte 	tarjeta postal 	.	.	.	-n 	sust
+der Ratschlag 	consejo 	.	.	.	¨-e 	sust
+die Regel 	regla 	.	.	.	-n 	sust
+die Religion 	religión 	.	.	.	-en 	sust
+die Treppe 	escalera 	.	.	.	-n 	sust
+das Ziel 	destino 	.	.	.	-e 	sust
+die Zigarette 	cigarrillo 	.	.	.	-n 	sust
+beginnen 	comenzar 	.	begann, begonnen 	.	.	v
+erklären 	explicar 	.	erklärte, erklärt 	.	.	v
+fotografieren 	fotografiar 	. 	fotografierte, fotogragiert 	.	.	v
+kennenlernen 	conocer 	.	lernte kennen, kennengelernt 	por primera vez 	.	v
+mitkommen venirse 	.	kam mit, mitgekommen 	.	.	v
+müssen 	deber 	.	musste, gemusst 	obligación	.	v
+parken 	aparcar	.	parkte, geparkt 	.	.	v
+putzen 	limpiar	.	putzte, 	geputzt 	.	.	v
+rauchen	fumar	.	rauchte, geraucht 	.	.	v
+telefonieren 	llamar por teléfono	.	telefonierte, telefoniert 	.	.	v
+unterschreiben 	firmar 	. 	unterschrieb unterschrieben 	.	.	v
+warten 	esperar 	.	wartete, gewartet 	.	.	v
+wiederholen 	repetir 	.	wiederholte, wiederholt 	.	.	v
+wissen 	saber	. 	wusste, gewusst 	.	.	v
+zuhören 	escuchar 	.	hörte zu, zugehört 	a alguien 	.	v
+es gibt 	hay
+geben 	dar 	.	gab, gegeben 	.	.	v
+berühmt 	famoso 	.	.	.	.	adj
+einfach 	simple 	.	.	.	.	adj/adv
+erlauben 	permitir	.	erlaubte, erlaubt 	.	.	v
+fremd 	extranjero 	.	.	.	.	adj
+gemütlich 	confortable 	.	.	.	.	adj
+hoch 	alto 	.	.	.	.	adj
