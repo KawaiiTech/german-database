@@ -231,7 +231,7 @@ die Firma 	empresa 	.	.	.	Firmen 	sust
 das Formular 	formulario 	.	.	.	-e 	sust
 das Gespräch 	conversación 	.	.	.	-e 	sust
 das Radio 	radio 	.	.	.	-s 	sust
-die Familie 	familia 	.	.	.	-n sust
+die Familie 	familia 	.	.	.	-n 	sust
 der Freund 	amigo 	.	.	.	-e 	sust
 die Freundin 	amiga 	.	.	.	-nen 	sust
 der Mann 	hombre 	.	.	.	¨-er 	sust
@@ -248,3 +248,53 @@ der Opa 	yayo 	.	.	.	-s 	sust
 die Oma 	yaya 	.	.	.	-s 	sust
 geschieden 	divorciado 	.	.	.	.	adj
 verheiratet 	casado 	.	.	.	.	adj
+verwitwet 	viudo 	.	.	.	.	adj
+das Jahr 	año 	.	.	.	-e 	sust
+der Partner 	pareja 	.	.	.	- 	sust
+die Partnerschaft 	matrimonio, cooperación 	.	.	.	-en 	sust
+die Party 	fiesta 	.	.	.	-s 	sust
+der Satz 	frase 	.	.	.	¨-e 	sust
+der Text 	texto 	.	.	.	-e 	sust
+die Zahl 	cifra 	.	.	.	-en 	sust
+die Nummer 	número 	.	.	.	-n 	sust
+das Lebensmittel 	comestible 	.	.	.	- 	sust
+der Apfel 	manzana 	.	.	.	¨- 	sust
+die Banane 	plátano 	.	.	.	-n 	sust
+die Birne 	pera 	.	.	.	-n 	sust
+das Brot 	pan 	.	.	.	-e 	sust
+das Brötchen 	panecillo 	.	.	.	- 	sust
+das Ei 	huevo 	.	.	.	-er 	sust
+der Fisch 	pescado 	.	.	.	-e 	sust
+das Getränk 	bebida 	.	.	.	-e 	sust
+die Kartoffel 	patata 	.	.	.	-n 	sust
+der Kuchen 	pastel 	.	.	.	- 	sust
+die Orange 	naranja 	.	.	.	-n 	sust
+der Saft 	zumo 	.	.	.	¨-e 	sust
+der Salat 	ensalada 	.	.	.	-e 	sust
+die Tomate 	tomate 	.	.	.	-n 	sust
+die Traube 	uva 	.	.	.	-n 	sust
+die Wurst 	salchucha 	.	.	.	¨-e 	sust
+das Bier 	cerveza 	.	.	.	-e 	sust
+die Butter 	mantequilla 	.	.	.	(ohne pl) 	sust
+die Cola 	cola 	.	.	bebida 	-s 	sust
+das Fleisch 	carne 	.	.	.	(ohne pl) 	sust
+das Gemüse 	verdura 	.	.	.	-  	sust
+-der Kaffee 	café 	.	.	.	 -s 	sust
+der Käse 	queso 	.	.	.	- 	sust
+die Milch 	leche 	.	.	.	(ohne pl) 	sust
+das Wasser 	agua 	.	.	.	- 	sust
+das Obst 	fruta 	.	.	.	 (ohne pl) 	sust
+das Öl 	aceite 	.	.	.	-e 	sust
+der Reis 	arroz 	.	.	.	-e 	sust
+die Sahne  	nata 	.	.	.	(ohne pl) 	sust
+das Salz 	sal 	.	.	.	-e 	sust
+der Schinken 	jamón 	.	.	.	 - 	sust
+der Tee 	té 	.	.	.	 -s 	sust
+der Wein 	vino 	.	.	.	 -e 	sust
+das Essen 	comida 	.	.	.	 - 	sust
+das Hähnchen 	pollo 	.	.	.	- 	sust
+Pommes frites 	patatas fritas 	.	.	.	(pl) 	sust
+die Suppe 	sopa 	.	.	.	-n 	sust
+die Soße 	salsa 	.	.	.	-n 	sust
+der Durst  	sed 	.	.	.	(ohne pl) 	sust
+der Hunger	hambre 	.	.	.	(ohne pl) 	sust
