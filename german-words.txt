@@ -148,3 +148,53 @@ erlauben 	permitir	.	erlaubte, erlaubt 	.	.	v
 fremd 	extranjero 	.	.	.	.	adj
 gemütlich 	confortable 	.	.	.	.	adj
 hoch 	alto 	.	.	.	.	adj
+langsam 	despacio 	.	.	.	.	adj
+laut 	ruidoso 	.	.	alto, fuerte 	.	adj
+leise 	silencioso 	.	.	.	.	adj
+möglich 	posible	.	.	.	.	adj
+rund	redondo 	.	.	.	.	adj
+verboten 	prohibido 	.	.	.	.	adj
+verbieten 	prohibir 	.	verbot verboten 	.	.	v
+jemand 	alguien	.	.	.	.	pron indef
+andere 	otro 	.	.	.	.	pron indef
+ohne 	sin 	.	.	.	.	prep + akk
+täglich 	cada día 	.	.	.	.	adv
+unbedingt 	sin falta 	.	.	.	.	adv
+unterwegs 	de camino 	.	.	.	.	adv
+zuerst 	primero 	.	.	.	.	adv
+in Ordnung 	en orden
+zum Schluss 	para finalizar
+während 	durante, mientras 	.	.	.	.	prep/conj
+vereinbaren 	concertar 	.	vereinbarte, vereinbart 	una cita (Termin)	.	v
+verschieben 	aplazar 	.	verschob, verschoben 	una cita (Termin) 	.	v
+die Krankheit 	enfermedad 	.	.	.	-en
+der Doktor 	doctor 	.	.	.	-	sust
+die Medizin 	medicina 	.	.	.	(ohne pl) 	sust
+der Schmerz 	dolor 	.	.	.	-en 	sust
+die Tablette 	pastilla 	.	.	.	-n 	sust
+untersuchen 	investigar, examinar 	.	untersuchte, untersucht 	médico, ciencia 	.	v
+wehtun 	doler 	.	tat weh, wehgetan 	.	.	v
+gesund 	sano 	.	.	.	.	adj
+krank 	enfermo	.	.	.	.	adj
+der Körperteil 	parte del cuerpo 	.	.	.	-e 	sust
+der Körper 	cuerpo 	.	.	.	- 	sust
+der Arm 	brazo 	.	.	.	-e sust
+das Auge 	ojo 	.	.	.	-n 	sust
+der Bauch 	barriga 	.	.	.	¨-e sust
+das Bein 	pierna 	.	.	.	-e sust
+der Finger 	dedo 	.	.	.	- 	sust
+der Fuß 	pie 	.	.	.	¨-e sust
+das Haar 	pelo 	.	.	.	-e 	sust
+die Hand 	mano 	.	.	.	¨-e 	sust
+der Kopf 	cabeza 	.	.	.	¨-e 	sust
+der Mund 	boca 	.	.	.	¨-er	sust
+die Nase 	nariz 	.	.	.	-n 	sust
+das Ohr 	oreja 	.	.	.	-en 	sust
+der Rücken 	espalda	.	.	.	- 	sust
+der Zahn 	diente 	.	.	.	¨-e 	sust
+der Absender 	remitente 	.	.	.	- 	sust
+der Empfänger 	destinatario 	.	.	.	- 	sust
+das Datum 	fecha 	.	.	.	Daten 	sust
+der Gruß 	saludo 	.	.	.	¨-e 	sust
+die Unterschrift 	firma 	.	.	.	-en 	sust
+die Auskunft 	referencia, información 	.	.	de una persona 	¨-e 	sust
