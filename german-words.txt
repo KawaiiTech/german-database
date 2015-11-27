@@ -129,10 +129,10 @@ beginnen 	comenzar 	.	begann, begonnen 	.	.	v
 erklären 	explicar 	.	erklärte, erklärt 	.	.	v
 fotografieren 	fotografiar 	. 	fotografierte, fotogragiert 	.	.	v
 kennenlernen 	conocer 	.	lernte kennen, kennengelernt 	por primera vez 	.	v
-mitkommen venirse 	.	kam mit, mitgekommen 	.	.	v
+mitkommen 	venirse 	.	kam mit, mitgekommen 	.	.	v
 müssen 	deber 	.	musste, gemusst 	obligación	.	v
 parken 	aparcar	.	parkte, geparkt 	.	.	v
-putzen 	limpiar	.	putzte, 	geputzt 	.	.	v
+putzen 	limpiar	.	putzte, geputzt 	.	.	v
 rauchen	fumar	.	rauchte, geraucht 	.	.	v
 telefonieren 	llamar por teléfono	.	telefonierte, telefoniert 	.	.	v
 unterschreiben 	firmar 	. 	unterschrieb unterschrieben 	.	.	v
@@ -167,7 +167,7 @@ zum Schluss 	para finalizar
 während 	durante, mientras 	.	.	.	.	prep/conj
 vereinbaren 	concertar 	.	vereinbarte, vereinbart 	una cita (Termin)	.	v
 verschieben 	aplazar 	.	verschob, verschoben 	una cita (Termin) 	.	v
-die Krankheit 	enfermedad 	.	.	.	-en
+die Krankheit 	enfermedad 	.	.	.	-en 	sust
 der Doktor 	doctor 	.	.	.	-	sust
 die Medizin 	medicina 	.	.	.	(ohne pl) 	sust
 der Schmerz 	dolor 	.	.	.	-en 	sust
@@ -178,12 +178,12 @@ gesund 	sano 	.	.	.	.	adj
 krank 	enfermo	.	.	.	.	adj
 der Körperteil 	parte del cuerpo 	.	.	.	-e 	sust
 der Körper 	cuerpo 	.	.	.	- 	sust
-der Arm 	brazo 	.	.	.	-e sust
+der Arm 	brazo 	.	.	.	-e 	sust
 das Auge 	ojo 	.	.	.	-n 	sust
-der Bauch 	barriga 	.	.	.	¨-e sust
-das Bein 	pierna 	.	.	.	-e sust
+der Bauch 	barriga 	.	.	.	¨-e 	sust
+das Bein 	pierna 	.	.	.	-e 	sust
 der Finger 	dedo 	.	.	.	- 	sust
-der Fuß 	pie 	.	.	.	¨-e sust
+der Fuß 	pie 	.	.	.	¨-e 	sust
 das Haar 	pelo 	.	.	.	-e 	sust
 die Hand 	mano 	.	.	.	¨-e 	sust
 der Kopf 	cabeza 	.	.	.	¨-e 	sust
