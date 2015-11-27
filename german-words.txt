@@ -198,3 +198,53 @@ das Datum 	fecha 	.	.	.	Daten 	sust
 der Gruß 	saludo 	.	.	.	¨-e 	sust
 die Unterschrift 	firma 	.	.	.	-en 	sust
 die Auskunft 	referencia, información 	.	.	de una persona 	¨-e 	sust
+die Dame 	dama	.	.	.	-n 	sust
+der Frisör 	peluquero 	.	.	.	-e 	sust
+das Leben 	vida 	.	.	.	- 	sust
+der Mensch 	ser humano 	.	.	hombre	-en 	sust
+die Schokolade 	chocolate 	.	.	.	-n 	sust
+ändern 	cambiar 	.	änderte, geändert 	hinweis: beginnt mit "ä" 	.	v
+aussehen 	parecer 	.	sah aus, ausgesehen 	.	.	v
+bieten 	ofrecer 	.	bot, geboten 	.	.	v
+einladen 	invitar 	.	lud ein, eingeladen 	.	.	v
+sollen 	deber 	.	sollte, gesollt 	sin obligación 	.	v
+versuchen 	intentar 	.	versuchte, versucht 	.	.	v
+weg sein 	estar ausente
+werden 	volverse	.	wurde, geworden	.	.	v
+gefährlich 	peligroso	.	.	.	.	adj
+nervös 	nervioso 	.	.	.	.	adj
+schlimm 	malo 	.	.	.	.	adj
+tot 	muerto	.	.	.	.	adj
+vorsichtig 	cuidadoso	.	.	.	.	adj
+die Fremdsprache 	idioma extranjero 	.	.	.	-n 	sust
+die Sprache 	idioma 	.	.	.	-n 	sust
+die Adresse 	dirección 	.	.	.	-n 	sust
+die Straße 	calle 	.	.	.	-n 	sust
+der Platz 	sitio, plaza 	.	.	.	¨-e 	sust
+die Stadt 	ciudad 	.	.	.	¨-e 	sust
+die Postleitzahl 	código postal 	.	.	.	-en 	sust
+das Fax 	fax 	.	.	.	-e 	sust
+das Beispiel 	ejemplo 	.	.	.	-e 	sust
+das Bild 	foto, imagen 	.	.	.	-er 	sust
+die E-Mail	email 	.	.	.	-s 	sust
+die Firma 	empresa 	.	.	.	Firmen 	sust
+das Formular 	formulario 	.	.	.	-e 	sust
+das Gespräch 	conversación 	.	.	.	-e 	sust
+das Radio 	radio 	.	.	.	-s 	sust
+die Familie 	familia 	.	.	.	-n sust
+der Freund 	amigo 	.	.	.	-e 	sust
+die Freundin 	amiga 	.	.	.	-nen 	sust
+der Mann 	hombre 	.	.	.	¨-er 	sust
+die Frau 	mujer 	.	.	.	-en 	sust
+der Vater 	padre 	.	.	.	¨- 	sust
+die Mutter 	madre 	.	.	.	¨- 	sust
+der Sohn 	hijo 	.	.	.	¨-e 	sust
+die Tochter 	hija 	.	.	.	¨- 	sust
+die Geschwister	hermanos 	.	.	.	(pl) 	sust
+der Bruder 	hermano 	.	.	.	¨- 	sust
+die Schwester 	hermana 	.	.	.	-n 	sust
+die Großeltern 	abuelos 	.	.	.	(pl) 	sust
+der Opa 	yayo 	.	.	.	-s 	sust
+die Oma 	yaya 	.	.	.	-s 	sust
+geschieden 	divorciado 	.	.	.	.	adj
+verheiratet 	casado 	.	.	.	.	adj
