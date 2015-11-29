@@ -298,3 +298,9 @@ die Suppe 	sopa 	.	.	.	-n 	sust
 die Soße 	salsa 	.	.	.	-n 	sust
 der Durst  	sed 	.	.	.	(ohne pl) 	sust
 der Hunger	hambre 	.	.	.	(ohne pl) 	sust
+der Eindruck	impresión	.	.	.	-drücke	sust
+zustimmen	dar la razón	.	stimmte zu, zugestimmt	.	.	v
+vorschlagen	proponer	.	schlug vor, vorgeschlagen	.	.	v
+ziemlich	bastante
+dabeihaben	tener [o llevar] consigo	.	hatte dabei, dabeigehabt	.	.	v
+das Pech	desgracia, pez	.	.	.	(ohne pl)	sust
