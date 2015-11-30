@@ -398,3 +398,103 @@ der Vorsicht 	precaución 	.	.	.	(ohne pl) 	sust
 die Uhr 	reloj 	.	.	.	-en 	sust
 die Uhrzeit 	hora 	.	.	.	-en 	sust
 Wie spät ist es? 	¿qué hora es?
+die Geschäftszeit 	horario comercial 	.	.	.	-en 	sust
+die Sprechstunde 	horario de atención 	.	.	.	-n 	sust
+die Öffnungszeit 	horario de apertura 	.	.	.	-en 	sust
+der Morgen 	mañana 	.	.	.	- 	sust
+der Vormittag 	mediamañana 	.	.	.	-e 	sust
+der Mittag 	mediodía 	.	.	.	-e 	sust
+der Nachmittag 	tarde 	.	.	.	-e 	sust
+ein Praktikum absolvieren 	hacer unas prácticas
+der Abend 	tarde noche 	.	.	.	-e 	sust
+die Nacht 	noche 	.	.	.	¨-e 	sust
+in der Nacht 	por la noche 
+die Woche 	semana 	.	.	.	-n 	sust
+der Montag 	lunes 	.	.	.	-e 	sust
+der Dienstag 	martes 	.	.	.	-e 	sust
+der Mittwoch 	miércoles 	.	.	.	-e 	sust
+der Donnerstag 	jueves 	.	.	.	-e 	sust
+der Freitag 	viernes 	.	.	.	-e 	sust
+der Samstag 	sábado 	.	.	.	-e 	sust
+der Sonntag 	domingo 	.	.	.	-e 	sust
+übermorgen 	pasado mañana 
+aufräumen 	recoger la casa 	.	räumte auf, aufgeräumt 	.	.	v
+aufstehen 	ponerse de pie, levantarse 	.	stand auf, aufgestanden 	.	.	v
+einkaufen 	comprar 	. 	kaufte ein, eingekauft 	.	.	v
+fernsehen 	ver la tele 	.	sah fern, ferngesehen 	.	.	v
+das Frühstück 	desayuno 	.	.	.	-e 	sust
+frühstücken 	desayunar 	.	frühstückte, gefrühstückt 	.	.	v
+der Fußball 	fútbol 	.	.	deporte	(ohne pl), pelota de fútol ¨-e 	sust
+spazieren 	pasear 	.	spazierte, spaziert 	.	.	v
+die Hausaufgabe 	tarea del hogar 	.	.	.	-n 	sust
+ins Bett gehen 	ir a la cama
+ins Kino gehen 	ir al cine
+die Ansage 	aviso, presentación 	.	.	.	-n 	sust
+der Bahnhof 	estación 	.	.	.	¨-e 	sust
+das Fitnessstudio 	gimnasio 	.	.	.	-s 	sust
+der Geburtstag 	cumpleaños 	.	.	.	-e 	sust
+die Praxis 	consultorio 	.	.	médico 	Praxen 	sust
+das Kino 	cine 	.	.	.	-s 	sust
+das Moment 	momento 	.	.	.	-e 	sust
+die Nachricht 	noticia 	.	.	.	-en 	sust
+der Schild	escudo 	.	.	.	-e 	sust
+das Schild 	señal de tráfico 	.	.	también letrero 	-er 	sust
+der Terminkalender 	agenda 	.	.	.	- 	sust
+die Touristinformation 	información turística 	.	.	.	-en 	sust
+anrufen 	llamar por teléfono 	.	rief an, angerufen 	.	.	v
+erzählen 	contar, narrar .	erzählte, erzählt 	.	.	v
+manchmal 	a veces 	.	.	.	.	adv
+dumm 	tonto 	.	.	.	.	adj
+früh 	pronto 	.	.	.	.	adj
+ganz 	bastante, todo 	.	.	.	.	adj/adv
+langweilig 	aburrido 	.	.	.	.	adj
+lustig 	divertido	.	.	.	.	adj
+nett 	simpático 	.	.	.	.	adj
+offiziel 	oficial 	.	.	.	.	adj
+privat 	privado 	.	.	.	.	adj/adv
+spät 	tarde 	.	.	.	tiempo	adv
+das Grad 	grado 	.	.	.	-e 	sust
+der Regen 	lluvia 	.	.	.	- 	sust
+die Sonne 	sol 	.	.	.	-n 	sust
+die Temperatur 	temperatura	.	.	.	-en 	sust
+das Wetter 	tiempo 	.	.	meteorología 	(ohne pl) 	sust
+der Wind 	viento 	.	.	.	-e 	sust
+regnen 	llover 	.	regnete, geregnet 	.	.	v
+schneien 	nevar 	.	schneite, geschneit 	.	.	v
+bewölkt 	nublado 	.	.	.	.	adj
+heiß 	muy caliente  	. 	.	.	. 	adj
+kalt 	frío 	.	.	.	.	adj
+schlecht 	malo 	.	.	.	.	adj/adv
+sonnig 	soleado 	.	.	.	.	adj
+warm	caliente 	.	.	.	.	adj
+windig 	ventoso 	.	.	.	.	adj
+minus 	menos 	.	.	temperatura	.	adv/conj
+plus 	más 	.	.	suma 	.	adv/conj/prep
+der Brief 	carta 	.	.	.	-e 	sust
+die Freizeit 	tiempo libre 	.	.	.	(ohne pl) 	sust
+die Disko 	discoteca 	.	.	.	-s 	sust
+das Fahrrad 	bicicleta 	.	.	.	¨-er 	sust
+das Computerspiel 	juego de ordenador 	.	.	.	-e 	sust
+der Sport 	deporte 	.	.	.	(ohne pl)	sust
+das Internet 	internet 	.	.	.	(ohne pl) 	sust
+das Spiel 	juego, partido 	.	.	.	-e 	sust
+das Hobby 	hobby 	.	.	.	-s 	sust
+grillen 	asar a la parrilla	.	grillte, gegrillt 	.	.	v
+im Internet surfen 	navegar por internet
+joggen 	hacer footing 	.	joggte, gejoggt 	.	.	v
+reisen 	viajar 	.	reiste, gereist 	.	.	v
+Ski fahren 	esquiar 
+tanzen 	bailar 	.	tanzte, getanzt 	.	.	v
+wandern 	hacer una excursión 	.	wanderte, gewandert 	.	.	v
+der Norden 	norte 	.	.	.	(ohne pl) 	sust
+der Süden	sur 	.	.	.	(ohne pl) 	sust
+der Westen 	oeste 	.	.	.	(ohne pl) 	sust
+der Osten 	este 	.	.	.	(ohne pl)	sust
+der Frühling 	primavera 	.	.	.	-e 	sust
+der Sommer 	verano 	.	.	.	- 	sust
+der Herbst 	otoño 	.	.	.	-e 	sust
+der Winter 	invierno 	.	.	. 	-	sust
+der Anzug 	traje 	.	.	de hombre 	¨-e 	sust
+das Buch 	libro 	.	.	.	¨-er 	sust
+das Eis 	helado, hielo 	.	.	.	(ohne pl) 	sust
+der Eiswürfel 	cubito de hielo 	.	.	.	- 	sust
