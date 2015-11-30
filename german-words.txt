@@ -301,7 +301,7 @@ der Hunger	hambre 	.	.	.	(ohne pl) 	sust
 der Eindruck	impresión	.	.	.	-drücke	sust
 zustimmen	dar la razón	.	stimmte zu, zugestimmt	.	.	v
 vorschlagen	proponer	.	schlug vor, vorgeschlagen	.	.	v
-ziemlich	bastante
+ziemlich	bastante 
 dabeihaben	tener [o llevar] consigo	.	hatte dabei, dabeigehabt	.	.	v
 das Pech	desgracia, pez	.	.	.	(ohne pl)	sust
 schmecken 	saber 	.	schmeckte, geschmeckt 	sabor	.	v
@@ -338,7 +338,7 @@ interessant 	interesante 	.	.	.	.	adj
 klein 	pequeño 	.	.	.	.	adj
 modern 	Moderno 	.	.	.	.	adj
 neu 	nuevo 	.	.	.	.	adj
-praktisch 	.	.	.	.	práctico
+praktisch 	práctico 	.	.	.	adj
 preiswert	de buen precio 	.	.	.	.	adj
 ruhig 	quieto 	.	.	.	.	adj
 schmal 	estrecho 	.	.	.	.	adj 
@@ -417,7 +417,7 @@ der Donnerstag 	jueves 	.	.	.	-e 	sust
 der Freitag 	viernes 	.	.	.	-e 	sust
 der Samstag 	sábado 	.	.	.	-e 	sust
 der Sonntag 	domingo 	.	.	.	-e 	sust
-übermorgen 	pasado mañana 
+übermorgen 	pasado mañana 	.	.	.	.	.
 aufräumen 	recoger la casa 	.	räumte auf, aufgeräumt 	.	.	v
 aufstehen 	ponerse de pie, levantarse 	.	stand auf, aufgestanden 	.	.	v
 einkaufen 	comprar 	. 	kaufte ein, eingekauft 	.	.	v
@@ -442,7 +442,7 @@ das Schild 	señal de tráfico 	.	.	también letrero 	-er 	sust
 der Terminkalender 	agenda 	.	.	.	- 	sust
 die Touristinformation 	información turística 	.	.	.	-en 	sust
 anrufen 	llamar por teléfono 	.	rief an, angerufen 	.	.	v
-erzählen 	contar, narrar .	erzählte, erzählt 	.	.	v
+erzählen 	contar, narrar	.	erzählte, erzählt 	.	.	v
 manchmal 	a veces 	.	.	.	.	adv
 dumm 	tonto 	.	.	.	.	adj
 früh 	pronto 	.	.	.	.	adj
@@ -498,3 +498,53 @@ der Anzug 	traje 	.	.	de hombre 	¨-e 	sust
 das Buch 	libro 	.	.	.	¨-er 	sust
 das Eis 	helado, hielo 	.	.	.	(ohne pl) 	sust
 der Eiswürfel 	cubito de hielo 	.	.	.	- 	sust
+die Fahrkarte 	tíquet de tren 	.	.	. 	-n 	sust
+der Film 	película 	.	.	.	-e 	sust
+das Geld 	dinero 	.	.	.	(ohne pl) 	sust
+das Geschäft 	tienda 	.	.	.	-e 	sust
+der Schlüssel 	llave 	.	.	.	- 	sust
+das Handy	móvil 	.	.	.	-s 	sust
+der Hund 	perro 	.	.	.	-e 	sust
+die Karte 	tarjeta 	.	.	.	-n 	sust
+der Kugelschreiber 	bolígrafo 	.	.	.	-	sust
+der Park 	parque 	.	.	.	-s 	sust
+das Picknick 	picnic 	.	.	.	-s 	sust
+die Reise 	viaje 	.	.	.	-n 	sust
+der Reiseführer 	guía turístico 	.	.	.	-	sust
+das Schloss 	castillo 	.	.	.	¨-er 	sust
+der Schuh 	zapato	.	.	.	-e 	sust
+die Speise 	plato, comida 	.	.	.	-n 	sust
+die Speisekarte 	carta de platos 	.	.	.	-n 	sust
+die Tasche 	bolso bolsillo 	.	.	.	-n 	sust
+die Welt 	mundo 	.	.	.	-en 	sust
+gucken 	mirar 	.	guckte, geguckt 	.	.	v
+schicken 	enviar 	.	schickte, geschickt 	.	.	v 
+stark 	fuerte	.	.	.	.	adj
+toll 	fantástico 	.	.	.	.	adj
+wichtig 	importante	.	.	.	.	adj
+circa 	cerca 	.	.	ca.	.	adv
+doch 	sí 	.	.	respuesta a una pregunta 	.	adv
+immer 	siempre	.	.	.	.	adv
+hauptsächlich	mayormente	.	.	.	.	adv
+allgemein 	generalmente 	.	.	.	.	adv
+normalerweise 	normalme 	.	.	.	.	adv
+noch 	todavía 	.	.	.	.	adv
+überall	en todas partes 	.	.	.	.	adv
+zusammen 	juntos 	.	.	.	.	adv
+zwischen 	entre 	.	.	.	.	adv
+die Gruppe 	grupo 	.	.	.	-n 	sust
+die Klasse 	clase 	.	.	.	-n 	sust
+der Kurs 	curso 	.	.	.	-e 	sust
+der Lehrer 	profesor 	.	.	.	- 	sust
+die Lehrerin 	profesora 	.	.	.	-nen 	sust
+die Schule 	escuela 	.	.	.	-n 	sust
+das Studium 	estudios universitarios 	.	.	.	(ohne pl) 	sust
+der Unterricht 	enseñanza en clase 	.	.	.	-e 	sust
+die Universität 	universidad 	.	.	.	-en 	sust
+das Angebot 	oferta 	.	.	.	-e 	sust
+die Arbeit 	trabajo 	.	.	.	-en 	sust
+das Ausland 	país extranjero 	.	.	.	(ohne pl) 	sust
+der Computer 	ordenador 	.	.	.	- 	sust
+die Frage 	pregunta 	.	.	.	-n 	sust
+die Gitarre 	guitarra 	.	.	.	-n 	sust
+die Hilfe 	ayuda 	.	.	.	-n 	sust
