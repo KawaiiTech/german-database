@@ -304,3 +304,97 @@ vorschlagen	proponer	.	schlug vor, vorgeschlagen	.	.	v
 ziemlich	bastante
 dabeihaben	tener [o llevar] consigo	.	hatte dabei, dabeigehabt	.	.	v
 das Pech	desgracia, pez	.	.	.	(ohne pl)	sust
+schmecken 	saber 	.	schmeckte, geschmeckt 	sabor	.	v
+der Cent 	céntimo	.	.	.	-s 	sust
+das Gewicht 	peso 	.	.	.	-e 	sust
+der Gramm 	gramo 	.	.	.	-e 	sust
+das Pfund 	medio kilo 	.	.	libra 	-e 	sust
+das Kilo 	kilo 	.	.	.	-s 	sust
+der Liter 	litro 	.	.	.	- 	sust
+der Becher 	tarrina 	.	.	.	-	sust
+die Dose 	lata 	.	.	.	-n 	sust
+die Flasche 	botella 	.	.	.	-n 	sust
+die Packung 	paquete cajetilla 	.	.	.	-en 	sust
+der Einkauf 	compra 	.	.	.	¨-e 	sust
+der Markt 	mercado 	.	.	.	¨-e 	sust
+die Person 	persona 	.	.	.	-en 	sust
+der Prospekt 	prospecto 	.	.	.	-e 	sust
+das Restaurant 	restaurante 	.	.	.	-s 	sust
+das Sonderangebot 	oferta especial 	.	.	.	-e 	sust
+der Supermarkt 	supermercado 	.	.	.	¨-e 	sust
+das Wörterbuch 	diccionario 	.	.	.	¨-er 	sust
+zeichnen 	dibujar 	.	zeichnete, gezeichnet 	.	.	v
+die Farbe 	color 	.	.	.	-n 	sust
+billig 	barato 	.	.	.	.	adj
+böse 	malo (enfadado) 	.	.	enfadado, mala persona 	.	adj
+breit 	ancho 	.	.	.	.	adj
+dunkel 	oscuro 	.	.	.	.	adj
+freundlich 	amable 	.	.	.	.	adj
+groß 	grande 	.	.	.	.	adj
+hässlich 	feo 	.	.	.	.	adj
+hell 	claro luminoso 	.	.	.	.	adj 
+höflich 	cortés 	.	.	.	.	adj
+interessant 	interesante 	.	.	.	.	adj
+klein 	pequeño 	.	.	.	.	adj
+modern 	Moderno 	.	.	.	.	adj
+neu 	nuevo 	.	.	.	.	adj
+praktisch 	.	.	.	.	práctico
+preiswert	de buen precio 	.	.	.	.	adj
+ruhig 	quieto 	.	.	.	.	adj
+schmal 	estrecho 	.	.	.	.	adj 
+schön 	bonito 	.	.	.	.	adj
+teuer 	caro 	.	.	.	.	adj
+zentral 	central 	.	.	.	.	adj
+das Bad 	baño 	.	.	.	¨-er 	sust
+der Balkon 	balcón 	.	.	.	-e 	sust
+der Flur 	pasillo 	.	.	.	-e 	sust
+der Garten 	jardín 	.	.	.	¨- 	sust
+das Haus 	casa 	.	.	.	¨-er 	sust
+die Wohnung 	piso 	.	.	.	-en 	sust
+die Küche 	cocina 	.	.	.	-n 	sust
+der Stock 	piso planta 	.	.	.	¨-e 	sust
+die Terrasse 	terraza 	.	.	.	-n 	sust
+die Toilette 	lavabo 	.	.	.	-n 	sust
+das Möbel 	mueble 	.	.	.	- 	sust
+die Badewanne 	bañera 	.	.	.	-n 	sust
+das Bett 	cama 	.	.	.	-en 	sust
+die Dusche 	ducha 	.	.	.	-n 	sust
+der Fernseher 	televisor 	.	.	.	-	sust
+der Herd 	cocina (fuegos) 	.	.	fuegos de la cocina 	-e 	sust
+der Kühlschrank 	nevera 	.	.	.	¨-e 	sust
+die Lampe 	lámpara 	.	.	.	-n 	sust
+der Schrank 	armario 	.	.	.	¨-e 	sust
+das Sofa 	sofá 	.	.	.	-s 	sust
+der Stuhl 	silla 	.	.	.	¨-e 	sust
+der Tisch 	mesa 	.	.	.	-e 	sust
+die Waschmaschine 	lavadora 	.	.	.	-n 	sust
+das Apartment 	apartamento 	.	.	.	-s 	sust
+der Quadratmeter 	metro cuadrado 	.	.	.	- 	sust
+die Miete 	alquiler 	.	.	.	-n 	sust
+mieten 	alquilar 	.	mietete, gemietet 	.	.	v
+vermieten 	alquilar a 	.	vermietete, vermietet 	.	.	v
+möbliert 	amueblado 	.	.	.	.	adj
+die Anzeige 	anuncio 	.	.	.	-n 	sust
+der Artikel 	artículo 	.	.	.	- 	sust
+die Geschichte 	historia 	.	.	.	-n 	sust
+die Natur 	naturaleza 	.	.	.	(ohne pl) 	sust
+das Praktikum 	prácticas 	.	.	.	Praktika 	sust
+der Student 	estudiante 	.	.	.	-en 	sust
+der Urlaub 	vacaciones 	.	.	.	-e 	sust
+die Zeit 	tiempo hora 	.	.	.	-en 	sust
+bezahlen 	pagar 	.	bezahlte, bezahlt 	.	.	v
+ordnen 	ordenar 	.	ordnete, geordnet 	.	.	v
+frei 	libre 	.	.	.	.	adj
+voll 	lleno 	.	.	.	.	adj
+dringend 	urgente	.	.	.	.	adj
+besonders 	especialmente 	.	.	.	.	adj
+bestimmt 	seguro 	.	.	.	.	adj/adv
+leider 	por desgracia 	.	.	.	.	adv
+mindestens 	por lo menos 	.	.	.	.	adv
+sofort 	enseguida 	.	.	.	.	adv
+vor allem 	sobre todo
+wirklich 	de verdad	.	.	.	.	adj
+der Vorsicht 	precaución 	.	.	.	(ohne pl) 	sust
+die Uhr 	reloj 	.	.	.	-en 	sust
+die Uhrzeit 	hora 	.	.	.	-en 	sust
+Wie spät ist es? 	¿qué hora es?
