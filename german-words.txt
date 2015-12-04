@@ -119,7 +119,7 @@ die Minute 	minuto 	.	.	.	-n 	sust
 das Papier 	papel 	.	.	.	-e 	sust
 der Pass 	pasaporte 	.	.	.	¨-e 	sust
 die Postkarte 	tarjeta postal 	.	.	.	-n 	sust
-der Ratschlag 	consejo 	.	.	.	¨-e 	sust
+der Ratschlag 	consejo 	.	.	se puede decir "der Rat"	¨-e 	sust
 die Regel 	regla 	.	.	.	-n 	sust
 die Religion 	religión 	.	.	.	-en 	sust
 die Treppe 	escalera 	.	.	.	-n 	sust
@@ -698,3 +698,103 @@ die Schwägerin 	cuñada 	.	.	.	-nen 	sust
 der Schwiegervater 	suegro 	.	.	.	¨- 	sust
 die Schwiegermutter 	suegra 	.	.	.	¨- 	sust
 der die Verwandte 	pariente 	.	.	.	-n 	sust
+die Großfamilie 	familia numerosa 	.	.	.	-n 	sust
+die Kleinfamilie 	familia pequeña 	.	.	.	-n 	sust
+die Dachwohnung 	ático 	.	.	.	-en 	sust
+der Nachbar 	vecino 	.	.	.	-n 	sust
+die Nachbarin 	vecina 	.	.	.	-nen 	sust
+traurig 	triste 	.	.	.	.	adj 
+das Rad 	rueda 	.	.	.	¨-er 	sust
+erleben 	vivir, experimentar 	.	erlebte, erlebt 	.	.	v
+schließlich 	finalmente 
+bei 	cerca de 	
+der Briefkasten 	buzón 	.	.	.	¨- 	sust
+der Hausmeister 	conserje 	.	.	.	- 	sust
+der Hof 	patio interior 	.	.	.	¨-e 	sust
+der Keller 	sótano 	.	.	.	- 	sust
+das Mietshaus 	casa de alquiler 	.	.	.	¨-er 	sust
+der Müll 	basura 	.	.	.	- 	sust
+die Mülltonne 	cubo de la basura 	.	.	.	-n 	sust
+der Boden 	suelo 	.	.	.	¨- 	sust
+das Regal 	estantería 	.	.	.	-e 	sust
+der Teppich 	alfombra 	.	.	.	-e 	sust
+die Wand 	pared 	.	.	.	¨-e 	sust
+raus 	afuera 
+rein 	adentro 
+der Anruf 	llamada 	.	.	.	-e 	sust
+Bescheid sagen 	avisar, informar
+die Katze 	gato 	.	.	.	-n 	sust
+der Kinderwagen 	cochecito para niños 	.	.	.	-	sust 
+die Mitteilung 	comunicado 	.	.	.	-en 	sust
+die Ordnung 	orden 	.	.	.	-en 	sust
+die Pflanze 	planta 	.	.	vegetal 	-n 	sust
+das Plastik 	plástico 	.	.	.	- 	sust
+der Strom 	corriente 	.	.	electricidad	¨-e 	sust
+erwarten 	esperar 	Ich erwarte deinen Anruf vor neun Uhr.	erwartete, erwartet 	.	.	sust
+hoffen 	confiar, esperar 	. 	hoffte, gehofft 	.	.	v
+verbessern	mejorar 	.	verbesserte, verbessert 	.	.	v
+verbrauchen 	gastar, consumir 	.	verbrauchte, verbraucht 	.	.	v
+werfen 	tirar 	.	warf, geworfen 	.	.	v
+ärgerlich 	enfadado 	
+übrigens	por cierto
+manchmal 	a veces
+wochentags 	días laborales
+das Geschirr 	vajilla 	.	.	platos 	-e 	sust
+die Gabel 	tenedor 	.	.	.	-n 	sust
+der Löffel 	cuchara 	.	.	.	- 	sust
+das Messer 	cuchillo 	.	.	.	- 	sust
+die Pfanne 	sartén 	.	.	.	-n 	sust
+die Tasse 	taza 	.	.	.	-n 	sust
+der Teller 	plato 	.	.	.	- 	sust
+der Topf 	olla 	.	.	.	¨-e 	sust
+der Appetit 	apetito 	.	.	.	(ohne pl) 	sust
+die Nachspeise 	postre 	.	.	.	-n 	sust
+die Portion 	porción 	.	.	.	-en 	sust
+das Rezept 	receta 	.	.	.	-e 	sust
+die Bohne 	judía 	.	.	.	-n 	sust
+der Braten 	asado 	.	.	.	- 	sust
+der Honig 	miel 	.	.	.	-e 	sust
+die Marmelade 	mermelada 	.	.	.	-n 	sust
+die Nudel 	noodle 	. 	.	.	-n 	sust
+die Nuss 	nuez 	.	.	.	¨-e 	sust
+der Zucker 	azúcar 	.	.	.	- 	sust
+die Zitrone 	limón 	.	.	.	-n 	sust
+das Fett 	grasa 	.	.	.	-e 	sust
+fett 	graso 	.	.	.	.	adj
+die Diät 	dieta 	.	.	.	-en 	sust
+das Lied 	canción 	.	.	.	-er 	sust
+die Metzgerei 	carnicería 	.	.	.	-en 	sust
+die Spülmaschine 	lavavajillas 	.	.	.	-n 	sust
+das Trinkgeld 	propina 	.	.	.	-er 	sust
+lassen 	dejar 	.	ließ, gelassen 	.	.	v
+mitbringen 	traer, llevar con 	.	brachte mit, mitgebracht 	.	.	v
+nötig 	necesario
+weich	blando 
+genauso 	de la misma manera 
+das Büro 	oficina 	.	.	.	-s 	sust
+der Empfang 	recepción 	.	.	.	¨-e 	sust
+der Export 	expotación 	.	.	.	-e 	sust
+die Fabrik 	fábrica 	.	.	.	-en 	sust
+der Import 	importación 	.	.	.	-e 	sust
+die Maschine 	máquina 	.	.	parece que se usa más para decir "avión" 	-n 	sust
+das Material 	material 	.	.	.	Materialien 	sust
+die Mehrwertsteuer 	impuesto sobre el valor añadido 	.	.	.	- 	sust
+das Produkt 	producto 	.	.	.	-e 	sust
+die Quittung 	recibo 	.	.	.	-en 	sust
+die Überstunde 	hora extra 	.	.	.	-n 	sust
+das Gebäck 	pastas 	.	.	.	- 	sust
+der das Keks 	galleta	.	.	.	-e 	sust
+der Hammer 	martillo 	.	.	.	¨- 	sust
+der Meister 	maestro	.	.	.	- 	sust
+der Vogel 	pájaro 	.	.	.	¨- 	sust
+einen Vogel haben 	estar chiflado 
+der Wald 	bosque 	.	.	.	¨-er 	sust
+das Medikament 	medicamento 	.	.	.	-e 	sust
+das Symbol 	símbolo 	.	.	.	-e 	sust
+der Test 	test 	.	.	.	-s 	sust
+der Typ 	tipo 	.	.	.	-en 	sust
+anbieten 	ofrecer 	.	bot an, angeboten 	.	.	v
+abschileßen 	cerrar con llave 	.	schloss ab, abgeschlossen 	.	.	v
+auschalten	apagar 	.	schaltete aus, ausgeschaltet 	.	.	v
+entscheiden 	decidir 	.	entschied, entschieden 	.	.	v
+erkennen 	reconocer 	.	erkannte, erkannt 	.	.	v
