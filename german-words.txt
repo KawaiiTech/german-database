@@ -798,3 +798,53 @@ abschileßen 	cerrar con llave 	.	schloss ab, abgeschlossen 	.	.	v
 auschalten	apagar 	.	schaltete aus, ausgeschaltet 	.	.	v
 entscheiden 	decidir 	.	entschied, entschieden 	.	.	v
 erkennen 	reconocer 	.	erkannte, erkannt 	.	.	v
+wählen 	elegir 	.	wählte, gewählt 	.	.	v 
+ähnlich 	parecido 
+betrunken	borracho 
+insgesamt	en total 
+möglichst	a ser posible 
+das Aerobic 	aeróbic 	.	.	- 	sust
+das Eishockey 	hockey sobre hielo 	.	.	.	- 	sust
+das Golf 	golf 	.	.	.	- 	sust
+das Handball 	balonmano 	.	.	.	- 	sust
+das Tischtennis 	ping-pong 	.	.	.	- 	sust
+klettern 	escalar 	.	 kletterte, geklettert 	.	.	v
+die Bewegung 	movimiento 	.	.	.	-en 	sust
+die Busfahrt 	viaje en bus 	.	.	.	-en 	sust
+das Herz 	corazón 	.	.	.	-en 	sust
+der Lärm 	ruido 	.	.	.	- 	sust
+die Saison 	temporada 	.	.	.	- 	sust
+runterfallen 	caerse 	.	fiel runter, runtergefallen 	.	.	v
+träumen 	soñar con 	.	träumte, geträumt 	.	.	v
+zusenden 	mandar a 	.	sendete zu, zugesendet 	.	.	v
+dünn 	delgado 
+ehrlich 	honesto
+entfernt 	lejano 
+kostenlos 	gratis
+regelmäßig 	regularmente 
+schwach 	débil
+wahr 	real 	
+genug 	suficiente
+inklusive 	incluido 
+kaum 	apenas 
+zu wenig 	muy poco
+der Antwalt 	abogado 	.	.	.	¨-e 	sust
+die Antwältin 	abogada 	.	.	.	-nen 	sust
+der Arbeitgeber 	empresario 	.	.	.	- 	sust
+der Arbeitnehmer 	empleado 	.	.	.	- 	sust
+der Arbeitsplatz 	lugar de trabajo 	.	.	.	¨-e 	sust
+der die Auszubildende àprendiz 	.	.	.	-n 	sust
+der Bauer 	agricultor	.	.	campesino 	- 	sust
+die Bewerbung 	solicitud de trabajo 	.	.	.	-en 	sust
+der Mechaniker 	mecánico 	.	.	.	- 	sust
+der Schauspieler 	actor 	.	.	.	- 	sust
+die Chemie 	química 	.	.	.	(ohne pl) 	sust
+die Biologie 	biología 	.	.	.	(ohne pl) 	sust
+die Kunst 	arte 	.	.	.	(ohne pl) 	sust
+das Schulfach 	asignatura 	.	.	.	¨-er 	sust
+die Krippe 	guardería, pesebre 	.	.	.	-n 	sust
+die Grundschule 	escuela primaria 	.	.	.	-n 	sust
+die Gesamtschule 	escuela integrada 	.	.	Gymnasium + Hauptschule + Realschule 	-n 	sust
+das Gymnasium 	instituto de enseñaza media 	.	.	.	Gymnasien 	sust
+die Hauptschule 	escuela de enseñanza general básica 	.	.	.	-n 	sust
+die Realschule 	escuela secundaria 	.	.	10-16 años 	-n 	sust
