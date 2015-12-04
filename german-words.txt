@@ -620,3 +620,81 @@ der Nacken 	nuca 	.	.	.	- 	sust
 die Empfehlung	recomendación 	.	.	.	-en 	sust
 besuchen 	visitar 	.	besuchte, besucht 	.	.	v
 danken	agradecer 	.	dankte, gedankt 	.	.	v
+dick 	gordo 	.	.	.	.	adj
+die U-Bahn 	metro 	.	.	Untergrund, transporte 	-en 	sust
+die S-Bahn 	tren	.	.	schnell, transporte 	-en 	sust
+der Bus 	bus 	.	.	.	-se 	sust
+das Flugzeug 	avión 	.	.	.	-e 	sust
+der Lkw 	camión 	.	.	.	-s 	sust
+die Straßenbahn 	tranvía 	.	.	.	-en 	sust
+das Taxi 	taxi 	.	.	.	-s 	sust
+der Zug 	tren 	.	.	.	¨-e 	sust
+links 	izquierda 	.	.	.	.	adv
+rechts 	derecha	.	.	.	.	adv
+drüben 	al otro lado, enfrente 	.	.	.	.	adv
+vorne 	delante 	.	.	.	.	adv
+hinten 	detrás 	.	.	.	.	adv
+oben 	arriba 	.	.	.	.	adv
+unten 	abajo 	.	.	.	.	adv
+die Abfahrt 	salida 	.	.	Zug, Bus 	-en 	sust
+der Abflug 	despeque 	.	.	.	¨-e 	sust
+die Ankunft 	llegada 	.	.	.	(ohne pl) 	sust
+der Anschluss 	conexión, enlace 	.	.	.	¨-e 	sust
+der Ausgang 	salida 	.	.	.	¨-e 	sust
+der Eingang 	entrada 	.	.	.	¨-e 	sust
+der Bahnsteig 	andén 	.	.	.	-e 	sust
+die Bushaltestelle 	parada de autobús 	.	.	.	-n 	sust
+die Durchsage 	megafonía 	.	.	.	-n 	sust
+der Fahrplan 	horario 	.	.	.	¨-e 	sust
+der Flughafen	aeropuerto 	.	.	.	¨-e 	sust
+das Gleis 	vía 	.	.	estación de trenes	-e 	sust
+das Reisebüro 	agencia de viajes 	.	.	.	-s 	sust
+der Schalter 	taquilla, ventanilla 	.	.	.	- 	sust
+die Verspätung 	retraso 	.	.	.	-en 	sust
+abfahren 	salir, partir 	.	fuhr ab, abgefahren	coche 	.	v
+abfliegen 	echarse a volar, salir 	Ich fliege am Montag nach Peking ab. Wir fliegen um 11 Uhr morgens in Frankfurt ab.	flog ab, abgeflogen 	echarse a volar (pájaro), salir (avión), in einem Flugzeug starten	.	v
+ankommen 	llegar a 	Bist du gut angekommen?; Die Expedition kam am Südpol an. 	kam an, angekommen 	.	.	v
+aussteigen 	bajar de 	. 	stieg aus, ausgestiegen 	del bus, tren 	.	v
+einsteigen 	subir a 	.	stieg ein, eingestiegen 	del bus, tren 	.	v
+umsteigen 	hacer transbordo 	.	stieg um, umgestiegen 	del bus, tren 	.	v
+weit 	lejano 
+wie weit? 	¿cómo de lejos?
+zu weit 	demasiado lejos
+zurück 	de vuelta
+hin und zurück 	ida y vuelta
+die Ampel 	semáforo 	.	.	.	-n 	sust
+die Apotheke 	farmacia 	.	.	.	-n 	sust
+die Bank 	banco 	.	.	Sitzbank, Kreditinstitut	¨-e 	sust
+die Bäckerei 	panadería 	.	.	.	-en 	sust
+die Ecke 	esquina 	.	.	.	-n 	sust
+der Kiosk 	quiosco 	.	.	.	-e 	sust
+das Krankenhaus 	hospital 	.	.	.	¨-er 	sust
+der Laden 	tienda	.	.	.	¨- 	sust
+der Parkplatz 	aparcamiento 	.	.	.	¨-e 	sust
+die Polizei 	policía 	.	.	.	-en 	sust
+die Post 	correos 	.	.	.	(ohne pl) 	sust
+Achtung 	atención
+die Autobahn 	autopista 	.	.	.	-en 	sust
+der Baum 	árbol 	.	.	.	¨-e 	sust
+der die Jugendliche	adolescente 	.	.	.	-n 	sust
+die Seite 	página 	.	.	.	-n 	sust
+der Weg 	camino 	.	.	.	-e 	sust
+die Jugend 	juventud 	.	.	.	(ohne pl) 	sust
+abholen 	recoger 	.	holte ab, abgeholt 	.	.	v
+zurückkommen 	volver de/a 	. 	kam zurück, zurückgekommen 	.	.	v
+pünktlich 	puntual
+nun 	ahora
+Wohin? 	¿a dónde?
+das Ehepaar 	matrimonio 	.	.	.	-e 	sust
+das Enkelkind 	nieto 	.	.	.	-er 	sust
+der Onkel 	tío 	.	.	.	- 	sust
+die Tante 	tía 	.	.	.	-n 	sust
+der Neffe 	sobrino 	.	.	.	-n 	sust
+die Nichte 	sobrina 	.	.	.	-n 	sust
+der Cousin 	primo 	.	.	.	-s 	sust
+die Cousine 	prima 	.	.	.	-n 	sust
+der Schwager 	cuñado 	.	.	.	¨- 	sust
+die Schwägerin 	cuñada 	.	.	.	-nen 	sust
+der Schwiegervater 	suegro 	.	.	.	¨- 	sust
+die Schwiegermutter 	suegra 	.	.	.	¨- 	sust
+der die Verwandte 	pariente 	.	.	.	-n 	sust
