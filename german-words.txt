@@ -548,3 +548,75 @@ der Computer 	ordenador 	.	.	.	- 	sust
 die Frage 	pregunta 	.	.	.	-n 	sust
 die Gitarre 	guitarra 	.	.	.	-n 	sust
 die Hilfe 	ayuda 	.	.	.	-n 	sust
+der Kilometer 	kilómetro 	.	.	.	-	sust
+die Kosten 	gastos 	.	.	.	(plural) 	sust
+das Lied 	canción 	.	.	.	-er 	sust
+das Mädchen 	niña 	.	.	.	- 	sust
+der Junge 	joven 	.	.	.	-n 	sust
+das Problem 	problema 	.	.	.	-e 	sust
+das Schwimmbad 	piscina 	.	.	.	¨-er 	sust
+der Spaß 	diversión 	.	.	.	¨-e 	sust
+die Stunde 	hora 	.	.	60 minutos 	-n 	sust
+das Tennis 	tenis 	.	.	.	(ohne pl) 	sust
+der Termin 	cita 	.	.	.	-e 	sust
+das Theater 	teatro 	.	.	.	- 	sust
+der Tipp 	consejo 	.	.	.	-s 	sust
+die Zeitschrift 	revista 	.	.	.	-en 	sust
+die Zeitung 	periódico 	.	.	.	-en 	sust
+lachen 	reír 	.	lachte, gelacht 	.	.	v
+wollen 	querer 	.	wollte, gewollt 	.	.	v
+perfekt 	perfecto 	.	.	.	.	adj
+schnell 	rápido 	.	.	.	.	adj
+allein 	solo 	.	.	.	.	adj
+danach 	después 	.	.	.	.	adj
+einmal 	una vez 	.	.	.	. 	adv
+früher 	antes, más pronto 	.	.	.	. 	adj/adv
+jede 	cada uno 	.	.	.	.	pron indef
+nie 	nunca 	.	.	.	. 	adv
+oft 	a menudo 	.	.	.	.	
+sicher 	seguro 	.	.	.	.	adj
+sogar 	incluso 
+gestern 	ayer
+nach Hause 	a casa
+wieder 	otra vez
+klar 	claro
+die Abteilung 	departamento 	.	.	de una tienda	-en 	sust
+der Arbeiter 	trabajador 	.	.	.	- 	sust
+der Job 	trabajo 	.	.	.	-s 	sust
+der Kollege 	compañero de trabajo 	.	.	.	-n 	sust
+die Stelle 	lugar, sitio 	.	.	.	-n 	sust
+der Architekt 	arquitecto 	.	.	.	-en 	sust
+der Hausmann 	amo de casa 	.	.	.	¨-er 	sust
+der Journalist 	periodista 	.	.	.	-en 	sust
+der Praktikant 	persona en prácticas	.	.	.	-en 	sust
+der Verkäufer 	vendedor 	.	.	.	-	sust
+arbeiten als 	trabajar de
+arbeitslos 	desempleado 	.	.	.	.	adj
+die Germanistik	filología germánica 	.	.	.	- 	sust
+baden 	bañar 	.	badete, gebadet 	.	.	v
+bekommen 	recibir 	.	bekam, bekommen 	.	.	v
+dauern 	durar 	.	dauerte, gedauert 	.	.	v
+enden 	terminar 	.	endete, geendet 	.	.	v
+heiraten 	casarse 	.	heiratete, geheiratet 	.	.	v
+fertig	terminado, listo
+wütend 	furioso 	.	.	.	.	adj
+beide	ambos 
+draußen 	fuera, lejos
+gerade 	recto 
+überhaupt 	en general 
+die Ermäßigung 	rebaja 	.	.	.	-en 	sust
+abgeben 	dejar en depósito 	Er gibt den Mantel an der Garderobe ab. Bitte geben Sie ihren Schlüssel an der Rezeption ab. 	gab ab, abgegeben 	. 	.	v
+bedeuten 	significar 	.	bedeutete, bedeutet 	.	.	v
+dürfen 	poder, tener permiso para 	.	durfte, gedurft 	.	.	v
+bekannt 	conocido 
+absagen 	anular, cancelar 	.	sagte ab, abgesagt	.	.	v
+das Fieber 	fiebre 	.	.	.	-	sust
+die Gesundheit 	salud 	.	.	.	(ohne pl) 	sust
+husten 	toser 	.	hustete, gehustet 	.	.	v
+der Husten 	tos 	.	.	.	-	sust
+der Hals 	cuello 	.	.	.	¨-e 	sust
+die Kehle 	garganta 	.	.	.	-n 	sust
+der Nacken 	nuca 	.	.	.	- 	sust
+die Empfehlung	recomendación 	.	.	.	-en 	sust
+besuchen 	visitar 	.	besuchte, besucht 	.	.	v
+danken	agradecer 	.	dankte, gedankt 	.	.	v
