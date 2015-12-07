@@ -898,5 +898,46 @@ einen Spaziergang machen 	dar un paseo
 das Video 	vídeo 	.	.	.	-s sust
 Video schauen 	ver un vídeo 	
 sammeln 	recoger 	Sie sammelt Unterschriften. Él recoge firmas. 	sammelte, gesammelt 	también: coleccionar 	.	v
+die Ausstellung 	exposición 	.	.	.	-en 	sust
+der Autor 	autor 	.	.	.	-en 	sust
+die Autorin 	autora 	.	.	.	-nen 	sust
+das Museum 	museo 	.	.	.	Museen 	sust
+der Tanz 	baile 	.	.	.	¨-e 	sust
+das Stück 	pieza 	.	.	.	-e 	sust
+das Werk 	obra 	.	.	trabajo 	-e 	sust
+die Baustelle 	obras 	.	.	construcción 	-n 	sust
+klassisch 	clásico 	.	.	.	.	adj
+die Eintrittskarte 	entrada 	.	.	.	-n 	sust
+die Veranstaltung 	evento 	.	.	. 	-en 	sust
+das Ereignis 	acontecimiento 	.	.	.	-se 	sust
+sich anmelden 	matricularse 	.	meldete sich an, sich angemeldet 	verbo transitivo, matricularSE	.	v
+anmelden 	anunciar 	.	meldete an, angemeldet 	.	.	v
+das Blatt 	hoja 	.	.	Baum, Papier 	¨-er 	sust
+die Diskussion 	discusión 	.	.	debate 	-en 	sust
+die Erzählung 	narración 	.	.	.	-en 	sust
+die Feuerwehr 	bomberos 	.	.	cuerpo de bomberos 	-en 	sust
+das Gesicht 	cara 	.	.	.	-er 	sust
+die Heimat 	patria 	.	.	.	-en 	sust
+die Leitung 	cable 	.	.	tubería, cañería, línea 	-en 	sust
+die Luft 	aire 	.	.	.	(ohne pl) 	sust
+die Lüge 	mentira 	.	.	.	-n 	sust
+die Macht 	poder 	.	.	.	también potencia 	¨-e 	sust
+die Reihe 	fila 	.	.	hilera, serie 	-n 	sust
+die Ruhe  	calma 	.	.	.	(ohne pl) 	sust
+der Rundfunk  	radiodifusión 	.	.	radio 	(ohne pl) 	sust
+der Feuerwehrmann 	bombero 	.	.	persona	¨-er 	sust
+die Schachtel 	caja pequeña 	.	.	p.ej. caja de cigarrillos 	-n 	sust
+der Senior 	persona mayor 	.	.	.	-en 	sust
+das Streichholz 	cerilla 	.	.	.	¨-er 	sust
+die Übung 	ejercicio 	.	.	práctica 	-en 	sust
+die Volkshochschule 	centro de formación para adultos 	.	.	.	-n 	sust
+der Vorschlag 	recomendación 	.	.	.	¨-e 	sust
+verbringen 	pasar 	.	verbrachte, verbracht	einen Tag verbringen = pasar el día 	.	v
+vorschlagen 	recomendar 	. 	schlug vor, vorgeschlagen 	.	.	v
+sich wünschen 	desear 	Das Kind wünscht sich zu Weihnachten einen Teddybären. 	wünschte, gewünscht 	verbo transitivo 	.	v
+freiwillig 	voluntario	.	.	.	.	adj
+offen 	abierto 	.	.	.	.	adj
+prima 	estupendo 	.	.	.	. 	adj
+verliebt 	enamorado 	.	.	.	.	adj
 
 
