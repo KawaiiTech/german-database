@@ -848,3 +848,55 @@ die Gesamtschule 	escuela integrada 	.	.	Gymnasium + Hauptschule + Realschule 	-
 das Gymnasium 	instituto de enseñaza media 	.	.	.	Gymnasien 	sust
 die Hauptschule 	escuela de enseñanza general básica 	.	.	.	-n 	sust
 die Realschule 	escuela secundaria 	.	.	10-16 años 	-n 	sust
+die Berufsschule　	escuela de formación profesional 	.	.	.	-n 	sust
+der Körper 	cuerpo 	.	.	.	- 	sust
+der Notarzt 	médico de urgencias 	.	.	.	¨-e 	sust
+der Kontakt 	contacto 	.	.	.	-e 	sust
+die Kultur 	cultura 	.	.	.	-en 	sust
+die Wirtschaft 	economía 	.	.	.	-en 	sust
+erreichen 	alcanzar	Ich kann die Lampe nicht erreichen, hole mir bitte ein Leiter. 	erreichte, erreicht 	localizar: Unter welcher Nummer kann ich Sie telefonisch erreichen?	.	v
+Interesse haben 	tener interés en 	.	.	(an) 	.	.
+Recht haben 	tener razón
+fleißig 	trabajador 	.	.	aplicado 	.	adj
+anscheinend 	por lo visto
+die Creme 	crema 	.	.	.	-s 	sust
+der DVD-Player 	reproductor de DVD 	.	.	.	- 	sust
+die Geldbörse 	monedero 	.	.	.	-n 	sust
+die Rose 	rosa 	.	.	flor	-n 	sust
+das Parfüm 	perfume 	.	.	.	-s 	sust
+die Stimmung 	estado de ánimo 	.	.	.	-en 	sust
+der Gutschein 	vale 	.	.	de dinero 	-e 	sust
+der Wert 	valor 	.	.	.	-e 	sust
+gültig 	válido
+persönlich 	personal 
+die Braut	novia 	.	.	.	¨-e 	sust
+die Bäuerin 	agricultora 	.	.	.	-nen 	sust
+der Bräutigam 	novio 	.	.	.	-e 	sust
+der Ring 	anillo 	.	.	.	-e 	sust
+das Standesamt 	registro civil 	.	.	.	¨-er 	sust
+das Altersheim 	residencia de ancianos 	.	.	.	-e 	sust
+der Briefumschlag 	sobre 	.	.	de carta 	¨-e 	sust
+das Motorrad 	motocicleta 	.	.	.	¨-er 	sust
+der Reiseführer 	guía turístico 	.	.	.	- 	sust
+der Rollstuhl 	silla de ruedas 	.	.	.	¨-e 	sust
+die Schere 	tijeras 	.	.	.	-n 	sust
+der Zentimeter 	centímetro 	.	.	.	- 	sust
+der Zoo 	zoo 	.	.	.	-s 	sust
+planen 	planear 	.	plante, geplant 	.	.	v
+überraschen 	sorprender 	.	überraschte, überrascht 	.	.	v
+überzeugen 	convencer 	.	überzeugte, überzeugt 	.	.	v
+drucken 	imprimir 	.	druckte, gedruckt 	.	.	v
+drücken 	apretar 	. 	drückte, gedrückt 	mit Umlaut 	.	v
+die Bar 	bar 	.	.	.	-s 	sust
+das Klavier 	piano 	.	.	.	-e 	sust
+Klavier spielen 	tocar el piano
+die Kneipe 	bar, tasca 	.	.	.	-n 	sust
+das Bargeld 	dinero efectivo 	.	.	.	(ohne pl) 	sust
+das Lokal 	local 	.	.	.	-e 	sust
+der Spaziergang 	paseo 	.	.	.	¨-e 	sust
+einen Spaziergang machen 	dar un paseo
+das Video 	vídeo 	.	.	.	-s sust
+Video schauen 	ver un vídeo 	
+sammeln 	recoger 	Sie sammelt Unterschriften. Él recoge firmas. 	sammelte, gesammelt 	también: coleccionar 	.	v
+
+
