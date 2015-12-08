@@ -939,5 +939,62 @@ freiwillig 	voluntario	.	.	.	.	adj
 offen 	abierto 	.	.	.	.	adj
 prima 	estupendo 	.	.	.	. 	adj
 verliebt 	enamorado 	.	.	.	.	adj
-
-
+außerhalb 	fuera de 	außerhalb der Geschäftsstunden	.	.	.	v
+einverstanden 	de acuerdo	.	.	.	.	adj
+gegenüber 	enfrente de	.	.	.	.	prep/adv
+trotzdem 	sin embargo	.	.	.	.	adv/conj
+ungefähr 	aproximado	.	.	.	.	adj
+auf keinen Fall 	bajo ningún concepto
+hören 	oír 	Man konnte ihn lachen hören. 	hörte, gehört 	.	.	v
+schauen 	mirar 	Schau doch nicht ständig auf die Uhr! 	schaute, geschaut 	.	.	v
+sehen 	ver 	Als er mich sah, winkte er. 	sah, gesehen 	.	.	v
+zeigen 	mostrar 	Mein Freund zeigte uns die ganze Stadt.	zeigte, gezeigt 	también indicar 	.	v
+ausrechnen 	calcular 	eine Rechenaufgabe/einen Preis ausrechnen 	rechnete aus, ausgerechnet 	.	.	v
+trällern 	tararear 	. 	trällerte, geträllert 	.	.	v
+schlank 	esbelto 	.	.	.	.	adj
+der Gegenstand 	objeto 	.	.	cosa, tema 	¨-e 	sust
+die Sache 	cosa 	.	.	.	-n 	sust
+die Form 	forma 	.	.	.	-en 	sust
+die Qualität 	calidad 	.	.	y cualidad	-en 	sust
+das Besteck 	cubierto 	.	.	.	-e 	sust
+der Bildschirm 	monitor 	.	.	.	-e 	sust
+die Couch 	sofá-cama 	.	.	.	-en/s 	sust
+die Figur 	figura 	.	.	.	-en 	sust
+das Geschirr	vajilla 	.	.	.	-e 	sust
+der Fotoapparat cámara 	.	.	.	-e 	sust
+die Anlage 	dispositivo 	.	.	.	-n 	sust
+die Platte 	bandeja  	.	.	.	-n 	sust
+der Schreibtisch 	escritorio 	.	.	.	-e 	sust
+der Sessel 	sillón 	.	.	.	- 	sust
+das Spielzeug 	juguete 	.	.	.	-e 	sust
+der Wecker 	despertador 	.	.	.	- 	sust
+die Socke 	calcetín 	.	.	.	-n 	sust
+der Stoff 	materia, tejido 	.	.	tela	-e 	sust
+der Strumpf 	media 	.	.	.	¨-e 	sust
+das Tuch 	pañuelo, trapo 	.	.	.	¨-er	sust
+fein 	fino 	.	.	delicado 	.	adj
+flach 	llano 	.	.	plano 	.	adj
+niedrig 	bajo	.	.	humilde	.	adj
+tief 	profundo 	.	.	.	.	adj
+die Eisenbahn 	ferrocarril 	.	.	.	-en 	sust
+die Erinnerung 	memoria 	.	.	recuerdo 	-en 	sust
+die Garantie 	garantía 	.	.	.	-n 	sust
+das Gas 	gas 	.	.	.	-e 	sust
+das Glück 	suerte 	.	.	fortuna 	(ohne pl) 	sust
+Glück bringen 	traer suerte 
+der Grund 	razón 	.	.	motivo, suelo, fundamento 	¨-e 	sust
+die Haut 	piel 	.	.	.	¨-e 	sust
+das Vorstellungsgespräch 	entrevista de trabajo 	.	.	.	-e 	sust
+die Sitzung 	reunión 	.	.	.	-en 	sust
+der Kredit 	crédito 	.	.	préstamo 	-e 	sust
+einen Kredit aufnehmen 	pedir un crédito
+das Metall 	metal 	.	.	.	-e 	sust
+das Nahrungsmittel 	producto alimenticio 	.	.	.	- 	sust
+die Überschrift 	encabezado 	.	.	.	-en 	sust
+der Titel 	título 	.	.	.	- 	sust
+die Versicherung 	seguro 	.	.	(vida, coche, casa...) 	-en 	sust
+Verzeihung! 	perdón 	
+handeln 	comerciar 	durch Handeln einen besseren Preis herausschlagen 	handelte, gehandelt 	. 	.	v
+sich handeln 	tratarse 	Worum handelt es sich denn?  	handelte sich, sich gehandelt 	.	.	v
+stimmen 	ser correcto 	Die Rechnung stimmt nicht. 	stimmte, gestimmt 	.	.	v
+elektrisch 	eléctrico 	.	.	.	. 	adj
