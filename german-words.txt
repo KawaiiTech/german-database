@@ -998,3 +998,114 @@ handeln 	comerciar 	durch Handeln einen besseren Preis herausschlagen 	handelte,
 sich handeln 	tratarse 	Worum handelt es sich denn?  	handelte sich, sich gehandelt 	.	.	v
 stimmen 	ser correcto 	Die Rechnung stimmt nicht. 	stimmte, gestimmt 	.	.	v
 elektrisch 	eléctrico 	.	.	.	. 	adj
+manche 	algunos 	Manche Fehler werden immer wieder gemacht. 	.	.	.	adj
+damals 	en aquel tiempo 	Damals, als Großvater noch ein junger Mann war... 	.	.	.	adv
+wahrscheinlich 	probablemente	.	.	probable (adj)	.	adv
+ziemlich 	bastante 	.	.	.	.	adj/adv
+wem 	a quién 	Wem gehört die Jacke da? 	.	.	.	pron
+so... wie 	así... como 
+seitdem 	desde entonces 	.	.	seit damals 	.	adv
+der Absender 	remitente 	.	.	.	- 	sust
+der Empfänger 	destinatario 	.	.	.	- 	sust
+die Kommunikation 	comunicación 	.	.	.	(ohne pl) 	sust
+die SMS 	sms 	.	.	.	- 	sust
+das Päckchen 	paquete pequeño 	.	.	menos de 2kg 	- 	sust
+das Konsulat 	consulado 	.	.	.	-e 	sust
+das Visum 	visado 	.	.	.	Visa 	sust
+verlängern 	alargar 	.	verlängerte, verlängert 	prolongar, renovar 	.	v
+die Beziehung 	relación 	.	.	.	-en 	sust
+die Grippe 	gripe 	.	.	.	-n 	sust
+die Handtasche 	bolso de mano 	.	.	.	-n 	sust
+der Katalog 	catálogo 	.	.	.	-e 	sust
+die Konferenz 	conferencia 	.	.	.	-en 	sust
+der Kontinent 	continente 	.	.	.	-e 	sust
+die Notiz 	nota 	.	.	.	-en 	sust
+der Liebling 	favorito 	.	.	amor, cariño 	-e 	sust
+das Missverständnis 	malentendido 	.	.	.	-se 	sust
+das Portemonnaie 	monedero 	.	.	.	-s 	sust
+der Punkt 	punto 	.	.	.	-e 	sust
+die Reinigung 	limpieza 	.	.	tintorería, depuración, lavado en seco 	-en 	sust
+der Schnupfen 	constipado 	.	.	catarro 	- 	sust
+die Sekunde 	segundo 	.	.	.	-n 	sust
+das Thema 	tema 	.	.	.	Themen 	sust
+der Unterschied 	diferencia 	.	.	.	-e 	sust
+die Untersuchung 	revisión 	.	.	investigación, pesquisa; análisis, examen, estudio, inspección, revisión; examen médico 	-en 	sust
+der Vertrag 	contrato 	.	.	.	¨-e 	sust
+das Vorurteil 	prejuicio 	.	.	.	-e 	sust
+anklicken 	hacer clic 	.	klickte an, angeklickt 	.	.	v
+auffordern 	pedir a 	jemanden zum Gehen/Tanzen auffordern 	fordete auf, aufgefordet 	.	.	v
+entschuldigen 	disculpar 	.	entschuldigte, entschuldigt 	.	.	v
+besorgen 	proporcionar 	.	besorgte, besorgt 	proporcionar, conseguir (beschaffen); comprar (kaufen); despachar, ultimar (erledigen) 	.	v
+gebrauchen 	usar 	Kannst du diese Werkzeuge gebrauchen? 	gebrauchte, gebraucht 	utilizar, servir	.	v
+klingeln 	tocar el timbre 	Kannst du mal an der Tür nachsehen, ich glaube, es hat geklingelt. 	klingelte, geklingelt 	.	.	v
+kriegen 	obtener 	Ich kriege noch 20 Euro von dir. 	kriegte, gekriegt 	lograr, conseguir 	.	v
+liefern 	entregar 	.	lieferte, geliefert	.	.	v
+nützen 	servir 	Wir nutzen moderne Medien wie das Internet. 	nützte, genützt 	aprovechar	.	v
+testen 	probar 	.	testete, getestet 	.	.	v
+transportieren 	transportar 	.	transportierte, transportierte.	.	v
+versprechen 	prometer 	Sie hat mir versprochen zu kommen. 	versprach, versprochen 	.	.	v
+wiegen 	pesar 	.	wog, gewogen 	mover, agitar 	.	v
+aktuell 	actual 	.	.	.	.	adj
+angenehm 	agradable 	.	.	.	.	adj
+deutlich 	claro 	.	.	legible, nítido 	.	adj
+direkt 	directo 	.	.	.	.	adj/adv
+furchtbar 	horroroso 	.	.	horrible (adj. schrecklich); muy (adv); enorme, tremendo (adj, sehr Groß) 	.	adj/adv
+positiv 	positivo 	.	.	.	.	adj
+schrecklich 	horroroso 	.	.	.	.	adj
+tolerant 	tolerante 	.	.	.	.	adj
+verrückt 	loco 	.	.	.	.	adj
+häufig 	frecuente 	.	.	frecuente, repetido (adj); a menudo, con frecuencia (adv); frecuentar (adv) 	.	adj/adv
+nebenan 	al lado 	.	.	.	.	adv
+plötzlich 	de repente 	.	.	súbito, repentino (adj) 	.	adv/adj
+die Batterie	batería 	.	.	.	-n 	sust
+das Benzin 	gasolina 	.	.	.	-e 	sust
+der Diesel 	diesel 	.	.	.	- 	sust
+die Einbahnstraße 	calle de sentido único 	.	.	.	-n 	sust
+die Station 	estación 	.	.	.	-en 	sust
+der Fußgänger 	peatón 	.	.	.	- 	sust
+die Fußgängerzone 	zona peatonal 	.	.	.	-n 	sust
+die Garage 	garaje 	.	.	.	-n 	sust
+das Kennzeichen 	matrícula 	.	.	característica, distintivo; Señal, marca 	-	sust
+das Kraftfahrzeug 	automóvil 	.	.	KFZ	- 	sust
+die Klingel 	timbre 	.	.	.	-n 	sust
+der Motor 	motor 	.	.	.	-en 	sust
+die Panne 	avería 	.	.	contratiempo 	-n 	sust
+der PKW 	coche de gasolina 	.	.	Personenkraftwagen 	-s 	sust
+der Reifen 	neumático 	.	.	.	- 	sust
+der Start 	arranque 	.	.	.	-s 	sust
+der Stau 	atasco 	.	.	retención 	-s 	sust
+die Tankstelle 	gasolinera 	.	.	.	-n 	sust
+der Teilnehmer 	participante 	.	.	.	-	sust
+der Verkehr 	tráfico 	.	.	.	(ohne pl) 	sust
+der Wagen 	coche 	.	.	vagón 	- 	sust
+die Werkstatt 	taller 	.	.	.	¨-en 	sust
+das Werkzeug 	herramienta 	.	.	.	-e 	sust
+abbiegen 	girar 	Biegen Sie an der nächsten Kreuzung rechts ab! 	bog ab, abgebogen 	.	.	v
+bremsen 	frenar 	.	bremste, gebremst 	.	.	v
+landen 	aterrizar 	.	landete, gelandet 	alunizar, amarar 	.	v
+starten 	comenzar 	.	startete, gestartet 	arrancar (coche) 	.	v
+tanken 	repostar 	.	tankte, getankt 	echar gasolina 	.	v
+überholen 	adelantar 	.	überholte, überholt 	.	.	v
+das Gewitter 	tormenta 	.	.	.	- 	sust
+der Nebel 	niebla 	.	.	.	- 	sust
+der Schnee 	nieve 	.	.	.	(ohne pl) 	sust
+der Sturm 	tormenta 	.	.	.	¨-e 	sust
+die Wolke 	nube 	.	.	.	-n 	sust
+eisig 	helado 	.	.	.	.	adj
+gewittrig 	tormentoso 	.	.	.	.	adj
+neblig 	nebuloso 	.	.	.	.	adj
+regnerisch  lluvioso 	.	.	.	.	adj
+stürmisch 	borrascoso 	.	.	tormentoso 	.	adj
+wolkig 	nublado 	.	.	.	.	adj
+glatt 	liso 	.	.	plano, suave 	.	adj
+kühl 	fresco 	.	.	.	.	adj
+nass 	mojado 	.	.	calado, empapado (durchnässt) 	.	adj
+die Brücke 	puente 	.	.	.	-n 	sust
+der Bürgermeister 	alcalde 	.	.	.	- 	sust
+der Einwohner 	habitante 	.	.	.	- 	sust
+der Fluss 	río 	.	.	.	¨-e 	sust
+der Kreis 	círculo 	.	.	también rotonda 	-e 	sust
+die Sicherheit 	seguridad 	.	.	.	(ohne pl) 	sust
+die Situation 	situación 	.	.	.	-en 	sust
+die Sprachschule	escuela de idiomas	.	.	.	-n 	sust
+das Ufer 	orilla	.	.	ribera 	- 	sust
