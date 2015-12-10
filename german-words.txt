@@ -292,7 +292,7 @@ der Schinken 	jamón 	.	.	.	 - 	sust
 der Tee 	té 	.	.	.	 -s 	sust
 der Wein 	vino 	.	.	.	 -e 	sust
 das Essen 	comida 	.	.	.	 - 	sust
-das Hähnchen 	pollo 	.	.	.	- 	sust
+das Hähnchen 	pollo 	.	.	macho	- 	sust
 Pommes frites 	patatas fritas 	.	.	.	(pl) 	sust
 die Suppe 	sopa 	.	.	.	-n 	sust
 die Soße 	salsa 	.	.	.	-n 	sust
@@ -945,6 +945,7 @@ gegenüber 	enfrente de	.	.	.	.	prep/adv
 trotzdem 	sin embargo	.	.	.	.	adv/conj
 ungefähr 	aproximado	.	.	.	.	adj
 auf keinen Fall 	bajo ningún concepto
+auf jeden Fall 	en cualquier caso
 hören 	oír 	Man konnte ihn lachen hören. 	hörte, gehört 	.	.	v
 schauen 	mirar 	Schau doch nicht ständig auf die Uhr! 	schaute, geschaut 	.	.	v
 sehen 	ver 	Als er mich sah, winkte er. 	sah, gesehen 	.	.	v
@@ -1109,3 +1110,67 @@ die Sicherheit 	seguridad 	.	.	.	(ohne pl) 	sust
 die Situation 	situación 	.	.	.	-en 	sust
 die Sprachschule	escuela de idiomas	.	.	.	-n 	sust
 das Ufer 	orilla	.	.	ribera 	- 	sust
+beschreiben 	describir 	.	beschrieb, beschrieben 	.	.	v
+feststellen 	averiguar 	Ich habe festgestellt, dass mein Schlüssel weg ist. 	stellte fest, festgestellt 	también verificar; fijar (fest = fijo), bloquear; comprobar 	.	v
+prüfen 	comprobar 	.	prüfte, geprüft 	examinar 	.	v
+verhindern 	impedir 	Wir konnten gerade noch das Schlimmste verhindern. 	verhinderte, verhindert 	barajar, evitar 	.	v
+wechseln 	cambiar 	wechselte, gewechselt 	.	.	v
+zurechtkommen 	aclararse 	Kommt ihr mit den Aufgaben zurecht? 	kam zurecht, zurechtgekommen 	apañarse 	.	v
+kräftig 	fuerte 	.	.	robusto 	.	adj
+rücksichtslos 	desconsiderado 	.	.	despiadado 	.	adj
+durch 	a través de 	.	.	.	.	adv/prep
+entlang 	a lo largo de 	.	.	+gen/dat (entlang des Weges); +akk (die Wand entlang)	.	adv/prep
+deshalb 	por eso 	.	.	.	.	adv
+wegen 	a causa de 	.	.	+gen/dat 	.	prep 
+dagegen 	en contra 	.	.	estar en contra, dafür sein 	.	v
+das Gebirge 	montes 	.	.	zona de montañas 	- 	sust
+die Grenze 	frontera 	.	.	límite 	-n 	sust
+die Insel 	isla 	.	.	.	-n 	sust
+die Küste 	costa 	.	.	.	-n 	sust
+die Region 	región 	.	.	.	-en 	sust
+der Strand 	playa 	.	.	.	¨-e 	sust
+die Umgebung 	alrededores 	.	.	ambiente, entorno 	-en 	sust
+der Dschungel 	selva 	.	.	jungla 	- 	sust
+die Wüste 	desierto 	.	.	.	- 	sust
+die Ferien 	vacaciones 	.	.	.	(plural) 	sust
+sich erholen 	reponerse de 	.	erholte, erholt 	.	.	v
+verreisen 	irse de viaje 	Wir wollen über die Feiertage verreisen. 	verreiste, verreist 	.	.	v
+der Aufenthalt 	estancia 	.	.	die Zeit, die man beim Wechseln von Eisenbahnzügen oder Flugzeugen an einem bestimmten Umsteigebahnhof/Flughafen verbringt: Sie haben eine halbe Stunde Aufenthalt in Singen. 	-e 	sust
+die Aussicht 	vista 	.	.	panorama 	-en 	sust
+der Campingplatz 	zona de camping 	.	.	. 	¨-e 	sust
+das Camping 	camping 	.	.	.	(ohne pl) 	sust
+die Lage 	sitio 	.	.	zona, posición, situación 	-n 	sust
+die Pension 	pensión 	.	.	alojamiento; pensión, jubilación 	-en 	sust
+das Service 	juego de café 	.	.	.	- 	sust
+der Service 	servicio 	.	.	.	(ohne pl) 	sust
+die Unterkunft 	alojamiento 	.	.	. 	¨-e 	sust
+das Zelt 	tienda de campaña 	.	.	.	-e 	sust
+die Aushilfe 	auxiliar 	.	.	.	ayuda, suplente 	-n 	sust
+die Fähre 	ferry 	.	.	.	-n 	sust
+der Flug 	vuelo 	.	.	.	¨-e 	sust
+das Handtuch 	toalla 	.	.	.	¨-er 	sust
+das Huhn 	gallina 	.	.	hembra	¨-er 	sust
+die Innenstadt 	centro de la ciudad 	.	.	.	¨-e 	sust
+die Laune 	humor 	.	.	capricho 	-n 	sust
+das Risiko 	riesgo 	.	.	.	Risiken 	sust
+das Schwein 	cerdo 	.	.	.	-e 	sust
+der Spielplatz 	parque infantil 	.	.	.	sust
+die Tabelle 	tabla 	.	.	cuadro 	-n 	sust
+das Verkehrsmittel 	medio de transporte 	.	.	.	- 	sust
+die Wärme 	calor 	.	.	del cuerpo 	(ohne pl) 	sust
+das WC 	wc 	.	.	.	-s 	sust
+sich beeilen 	darse prisa 	Wir müssen uns beeilen, sonst verpassen wir den Zug. 	beeilte, beeilt 	.	.	v
+beobachten 	observar 	Ich konnte genau beobachten, wie der Einbrecher die Tür aufbrach. 	beobachtete, beobachtet 	.	.	v
+grüßen 	saludar 	.	grüßte, gegrüßt 	.	.	v
+stinken 	apestar 	.	stank, gestunken 	.	.	v
+anstrengend 	agotador  	.	.	.	.	adj
+blond 	rubio 	.	.	.	.	adj
+einsam 	aislado 	.	.	solo, apartado 	.	adj
+gemeinsam 	en común 	.	.	en común (adv); común, conjunto (adj) 	.	adv
+giftig 	venenoso 	.	.	tóxico 	.	adj
+herrlich 	espléndido 	.	.	delicioso 	. 	adj
+das Klo 	retrete 	.	.	.	-s 	sust
+leer 	vacío 	.	.	.	.	adj
+neugierig 	curioso 	.	.	.	.	adj
+trocken 	seco 	.	.	no confundir con trockNen 	.	adj 
+zurzeit 	de momento 	.	.	.	.	adv
