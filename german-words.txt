@@ -939,7 +939,8 @@ freiwillig 	voluntario	.	.	.	.	adj
 offen 	abierto 	.	.	.	.	adj
 prima 	estupendo 	.	.	.	. 	adj
 verliebt 	enamorado 	.	.	.	.	adj
-außerhalb 	fuera de 	außerhalb der Geschäftsstunden	.	.	.	v
+außerhalb 	fuera de 	außerhalb der Geschäftsstunden	.	.	.	prep/adv
+außerdem 	además 	.	.	.	. 	adv
 einverstanden 	de acuerdo	.	.	.	.	adj
 gegenüber 	enfrente de	.	.	.	.	prep/adv
 trotzdem 	sin embargo	.	.	.	.	adv/conj
@@ -1174,3 +1175,99 @@ leer 	vacío 	.	.	.	.	adj
 neugierig 	curioso 	.	.	.	.	adj
 trocken 	seco 	.	.	no confundir con trockNen 	.	adj 
 zurzeit 	de momento 	.	.	.	.	adv
+nah 	cercano 	.	.	.	.	adj
+über 	sobre 	.	.	+dat 	.	prep
+von... an 	a partir de 	.	.	~ab 	.	
+der Geldautomat 	cajero automático 	.	.	.	-en 	sust
+das Konto 	cuenta 	.	.	del banco 	Konten 	sust
+der Zins 	interés 	.	.	dinero 	-en 	sust
+Geld abheben 	sacar dinero 	. 	hob ab, abgehoben 	.	v
+Geld einzahlen 	ingresar dinero 	.	zahlte ein, eingezahlt 	.	.	v
+überweisen 	transferir 	.	überwies, überwiesen 	.	.	v
+die EC-Karte 	tarjeta electrónica 	.	.	.	-n 	sust
+die Kreditkarte 	tarjeta de crédito 	.	.	.	-n 	sust
+der Zoll 	aduana 	.	.	.	¨-e 	sust
+bar bezahlen 	pagar en efectivo
+der Biergarten 	cervecería al aire libre 	.	.	.	¨- 	sust
+die Chance 	oportunidad 	.	.	 ocasión; perspectiva 	-n 	sust
+der Gewinn 	ganancia 	.	.	beneficio 	-e 	sust
+das Kissen 	almohada 	.	.	cojín 	- 	sust
+die Kopie 	copia 	.	.	.	-n 	sust
+die Krankenkasse 	caja de seguros 	.	.	.	-n 	sust
+das Original 	original 	.	.	.	-e 	sust
+die Organisation 	organización 	.	.	.	-en 	sust
+Prost 	salud
+die Rente 	pensión 	.	.	.	-n 	sust
+der Schein 	brillo 	.	.	luz, apariencia 	-e 	sust
+der Staat 	estado 	.	.	(política) 	-en 	sust
+die Telefonkarte 	tarjeta de teléfono 	.	.	.	-n 	sust
+die Tüte 	bolsa 	.	.	.	-n 	sust
+-die Ware 	mercancía 	.	.	.	-n 	sust
+die Zukunft 	futuro 	.	.	.	(ohne pl) 	sust
+aufhören 	terminar 	Sie hörte nicht auf zu singen. Plötzlich hörte der Sturm auf. 	hörte auf, aufgehört	acabar; abandonar, suspender 	.	v
+aufschreiben 	anotar 	 eine Adresse aufschreiben; eine Nachricht aufschreiben 	schrieb auf, aufgeschrieben 	apuntar 	.	v
+einfallen 	venir a la memoria 	Ich kann mich nicht daran erinnern, es fällt mir nichts dazu ein. 	fiel ein, eingefallen 	in Erinnerung kommen; ocurrir 	.	v
+gelten 	tener validez 	. 	galt, gegolten  	.	.	v
+kopieren 	copiar 	. 	kopierte, kopiert 	.	.	v
+malen 	pintar 	. 	malte, gemalt 	.	.	v
+nähen 	coser 	.	nähte, genäht 	suturar 	.	v
+renovieren 	renovar 	.	renovierte, renoviert 	.	.	v
+tragen 	llevar 	.	trug, getragen 	soportar, sostener 	.	v
+verstecken  	esconder de 	.	versteckte, versteckt 	+vor 	.	v
+verteilen 	repartir 	.	verteilte, verteilt 	distribuir, +unter/an 	.	v
+mitten in 	en medio de
+enttäuscht 	decepcionado 	.	.	desilusionado 	.	adj
+ob 	si 	.	.	.	.	conj
+irgendwas 	cualquier cosa  	.	.	.	.	pron indef
+irgendwo 	en cualquier parte 	.	.	.	.	adv
+irgendwann 	en cualquier momento 	.	.	.	.	adv
+irgendwer 	cualquiera 	.	.	cualquier persona 	.	pron indef
+irgendwie 	de alguna manera 	.	.	.	.	adv
+der Abschnitt 	párrafo 	.	.	sección, sector 	-e 	sust
+der Beamte 	funcionario 	.	.	.	-n 	sust
+der/die Deutsche 	alemán 	.	.	.	-n 	sust
+das Dorf 	pueblo 	.	.	aldea 	¨-er 	sust
+die Energie 	energía 	.	.	.	-n 	sust
+der Gedanke 	pensamiento 	.	.	idea, ocurrencia 	-n 	sust
+auf andere Gedanken kommen 	cambiar de idea
+die Krise 	crisis 	.	.	.	-n 	sust
+die Liste 	lista 	.	.	.	-n 	sust
+das Loch 	agujero 	.	.	.	¨-er 	sust
+das Märchen  	cuento 	.	.	.	- 	sust
+die Maus 	ratón 	.	.	.	¨-e 	sust
+das Mitglied 	miembro 	.	.	.	-er 	sust
+die Operation 	operación 	.	.	.	-en 	sust
+das Paar 	pareja 	.	.	.	-e 	sust
+in Pension sein 	estar jubilado
+der Raucher 	fumador 	.	.	.	- 	sust
+die Seife 	jabón 	.	.	.	-n 	sust
+der Tod 	muerte 	.	.	fallecimiento, defunción 	-e 	sust
+die Zuverlässigkeit 	fiabilidad 	.	.	eficacia; verosimilitud, credibilidad 	(ohne pl) 	sust
+die Unzuverlässigkeit 	negligencia 	.	.	 falta de seriedad; inestabilidad 	(ohne pl) 	sust
+ausgehen 	salir 	.	ging aus, ausgegangen 	caer (Haare, Zähne) 	.	v
+mischen 	mezclar 	.	mischte, gemischt 	barajar 	.	v
+stehen bleiben 	quedarse de pie
+sterben 	morir 	.	starb, gestorben 	.	.	v
+übernehmen 	hacerse cargo 	.	übernahm, übergenommen 	.	.	v
+der Gegner 	enemigo 	.	.	.	- 	sust
+verletzen 	herir 	Er hat seinen Gegner am Arm verletzt. Seine barschen Worte verletzten sie tief. 	verletzte, verletzt 	+an 	.	v
+aktiv 	activo 	.	.	.	.	adj
+beliebt 	estimado 	.	.	apreciado 	.	adj
+dankbar 	agradecido 	.	.	.	.	adj
+eng 	estrecho 	.	.	angosto; denso 	.	adj
+ordentlich 	ordenado 	.	.	.	.	adj
+unordentlich 	desordenado 	.	.	.	.	adj
+pensioniert 	jubilado 	.	.	.	.	adj
+inzwischen 	entretanto 	.	.	mientras tanto 	.	adv
+die DNA 	ADN 	.	.	.	-s 	sust
+der Jazz 	jazz 	.	.	.	(ohne pl) 	sust
+das Kostüm 	traje 	.	.	disfraz 	-e 	sust
+der Preis 	precio 	.	.	premio 	-e 	sust
+das Publikum 	público 	.	.	.	(ohne pl) 	sust
+der Sänger 	cantante 	.	.	.	- 	sust
+das Studio 	estudio 	.	.	.	-s 	sust
+das Theaterstück 	obra de teatro 	.	.	.	-e 	sust
+die Unterhaltung 	conversación 	.	.	entretenimiento, diversión (ohne pl) 	-en 	sust
+der Star 	estrella 	.	. 	(persona) 	-s 	sust
+der Stern 	estrella 	.	.	(astronomía) 	-e 	sust
+der Zuschauer 	espectador 	.	.	.	- 	sust
