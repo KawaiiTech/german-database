@@ -1225,7 +1225,7 @@ irgendwer 	cualquiera 	.	.	cualquier persona 	.	pron indef
 irgendwie 	de alguna manera 	.	.	.	.	adv
 der Abschnitt 	párrafo 	.	.	sección, sector 	-e 	sust
 der Beamte 	funcionario 	.	.	.	-n 	sust
-der/die Deutsche 	alemán 	.	.	.	-n 	sust
+der Deutsche 	alemán 	.	.	también se usa con "die"	-n 	sust
 das Dorf 	pueblo 	.	.	aldea 	¨-er 	sust
 die Energie 	energía 	.	.	.	-n 	sust
 der Gedanke 	pensamiento 	.	.	idea, ocurrencia 	-n 	sust
@@ -1271,3 +1271,82 @@ die Unterhaltung 	conversación 	.	.	entretenimiento, diversión (ohne pl) 	-en 
 der Star 	estrella 	.	. 	(persona) 	-s 	sust
 der Stern 	estrella 	.	.	(astronomía) 	-e 	sust
 der Zuschauer 	espectador 	.	.	.	- 	sust
+ansehen 	mirar 	Das muss ich (mir) einmal genauer ansehen. 	sah an, angesehen 	contemplar; considerar 	.	v
+loben 	elogiar 	Er wurde für seine Arbeit gelobt. 	lobte, gelobt 	.	.	v
+zuschauen 	mirar  	.	schaute zu, zugeschaut 	= zusehen 	.	v
+ernst 	serio 	.	.	firme; grave; solemne 	.	adj
+der Krimi 	género negro 	.	.	en literatura	-s 	sust
+der Kriminalroman 	novela policíaca 	.	.	.	-e 	sust
+der Mord 	asesinato 	.	.	homicidio 	-e 	sust
+der Mörder 	asesino 	.	.	.	- 	sust
+das Opfer 	víctima 	.	.	ofrenda; sacrificio 	- 	sust
+die Schuld 	culpa 	.	.	deuda	(ohne pl) 	sust
+der Schuss 	disparo 	.	.	tiro 	¨-e 	sust
+die Strafe 	multa 	.	.	pena, castigo 	-n 	sust
+die Tat 	delito 	.	.	hecho, acción 	-en 	sust
+das Verbrechen 	crimen 	.	.	delito 	- 	sust
+der Verbrecher 	criminal 	.	.	delincuente 	- 	sust
+der Dieb 	ladrón 	.	.	.	-e 	sust
+die Wahrheit 	verdad 	.	.	.	-en 	sust
+der Zeuge 	testigo 	.	.	.	-n 	sust
+die Flucht 	huida 	.	.	.	(ohne pl) 	sust
+der Polizist 	hombre policía 	.	.	.	-en 	sust
+der Täter 	delincuente 	.	.	.	- 	sust
+kämpfen 	luchar 	Die Truppen kämpfen seit Wochen. 	kämpfte, gekämpft 	.	.	v
+schlagen 	golpear 	.	schlug, geschlagen 	.	.	v
+die Bücherei 	librería 	.	.	.	-en 	sust
+der Charakter 	carácter 	Er hat einen sehr schwierigen Charakter. 	.	. 	-e 	sust
+die Eile 	prisa 	Das hat keine Eile.	.	apuro, urgencia 	(ohne pl) 	sust
+das Gegenteil 	contrario 	.	.	.	-e 	sust
+das Heim 	residencia 	.	.	asilo, sanatorio 	-e 	sust
+die Kurve 	curva 	.	.	.	-n 	sust
+der Mond 	luna 	.	.	.	-e 	sust
+der Profi 	profesional 	.	.	.	-s 	sust
+der Schritt 	paso 	.	.	.	-e 	sust
+die Tastatur 	teclado 	.	.	.	-en 	sust
+der Vertreter 	sustituto 	.	.	suplente; representante 	- 	sust
+die Wissenchaft 	ciencia 	.	.	.	-en 	sust
+ablehnen 	rechazar 	Die Eltern lehnen den Freund ihrer Tochter ab. 	lehnte ab, abgelehnt 	.	.	v
+anhalten 	parar 	ein Fahrzeug/eine Maschine/eine Uhr anhalten 	hielt an, angehalten 	detenerse; seguir, continuar; durar, perdurar 	.	v
+aufregen 	alterar 	Das regt den Kranken unnötig auf. 	regte auf, aufgeregt 	Umgangsprachlig: "ärgern" (irritar) Du regst mich wirklich auf! 	.	v
+begegnen 	encontrarse 	Ich begegne ihm täglich auf dem Weg zum Bahnhof. 	begegnete, begegnet 	= treffen, pero con DATIV 	.	v
+begründen 	fundar 	.	begründete, begründet 	justificar 	.	v
+einschlafen 	dormirse 	Nach dem anstrengenden Tag bin ich schon früh eingeschlafen. Mein rechter Arm ist eingeschlafen. 	schlief ein, eingeschlafen 	quedarse dormido 	.	v
+herauskommen 	salir de 	Ich sah die Zuschauer aus dem Kino herauskommen. 	kam heraus, herausgekommen 	salir de + aus; resultar de + bei: Es wird nichts Gutes dabei herauskommen. 	.	v
+umtauschen 	cambiar por 	Nach Weihnachten wollen viele Leute ihre Geschenke umtauschen. 	tauschte um, umgetauscht 	.	.	v
+sich verhalten 	comportarse 	Er verhielt sich ruhig. 	verhielt, verhalten 	.	.	v
+hinterher 	detrás 	.	.	detrás (räumlich); después (zeitlich) 	.	adv
+innen 	dentro 	.	.	(por) dentro, en el interior 	.	v
+obwohl 	aunque	.	.	.	.	conj
+der Gott 	dios 	.	.	.	¨-er 	sust
+das Christentum 	cristianismo 	.	.	.	(ohne pl)	sust
+das Judentum 	judeísmo 	.	.	.	(ohne pl) 	sust
+der Hinduismus 	hinduísmo 	.	.	.	(ohne pl)	sust
+der Islam 	islamismo 	.	.	.	(ohne pl) 	sust
+die Freiheit 	libertad 	.	.	.	-en 	sust
+die Katastrophe 	catástrofe 	.	.	.	-n 	sust
+die Schwierigkeit 	dificultad 	.	.	.	-en 	sust
+das Unglück 	desgracia 	.	.	.	-e 	sust
+das Vertrauen 	confianza 	.	.	.	(ohne pl) 	sust
+vertrauen 	confiar 	Du kannst ihm blind vertrauen. 	vertraute, vertraut 	 .	.	v
+der Blitz 	rayo 	.	.	.	-e 	sust
+der Himmel 	cielo 	.	.	.	- 	sust
+die Wiese 	pradera 	.	.	prado 	-n 	sust
+die Notaufnahme 	urgencias 	.	.	.	-n 	sust
+der Notruf 	llamada de socorro 	.	.	.	-e 	sust
+die Verletzung 	herida 	.	.	.	-en 	sust
+stürzen 	caerse 	Er ist vom Rad gestürzt. 	stürzte, gestürzt 	precipitarse 	.	v
+sich etwas brechen 	romperse algo 	.	brach, gebrochen 	.	.	v
+der Augenblick 	instante 	.	.	momento 	-e 	sust
+der Dichter 	poeta 	.	.	.	-n 	sust
+die Geburt 	nacimiento 	.	.	parto; origen 	-en 	sust
+die Hoffnung 	esperanza 	.	.	.	-en 	sust
+das Eisen 	hierro 	.	.	.	- 	sust
+das Hufeisen 	herradura 	.	.	.	- 	sust
+der Knödel	albóndiga 	.	.	especie de albóndiga cocida hecha de una masa de patatas o miga de pan 	- 	sust
+der Kofferraum 	maletero 	.	.	baúl 	¨-e 	sust
+der Pudding 	pudding 	.	.	.	-e 	sust
+die Schlagzeile 	titular 	.	.	.	-n 	sust
+der Schutz 	protección 	.	.	.	(ohne pl) 	sust
+der Spiegel 	espejo 	.	.	.	-	sust
+die Stimme 	voz 	.	.	.	-n 	sust
