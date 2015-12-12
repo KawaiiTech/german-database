@@ -43,7 +43,7 @@ der See 	lago 	.	.	die See, - = el mar 	-n 	sust
 die Ortsangabe 	indicación de lugar 	.	.	.	-n 	sust
 die Antwort 	respuesta 	.	.	.	-en 	sust
 die Blume 	flor 	.	.	.	-n 	sust
-der/die Erwachsene 	adulto 	.	.	.	-n 	sust
+der Erwaschene 	adulto 	.	.	.	-n 	sust
 das Fest 	fiesta 	.	.	.	-e 	sust
 der Führerschein 	permiso de conducir 	.	.	.	-e 	sust
 die Hochzeit 	boda 	.	.	.	-en 	sust 
@@ -1350,3 +1350,116 @@ die Schlagzeile 	titular 	.	.	.	-n 	sust
 der Schutz 	protección 	.	.	.	(ohne pl) 	sust
 der Spiegel 	espejo 	.	.	.	-	sust
 die Stimme 	voz 	.	.	.	-n 	sust
+die Zwetschge 	ciruela 	.	.	dunelblaue Pflaume 	-n 	sust
+ausreichen 	bastar 	Ihre Kenntnisse reichen aus. 	reichte aus, ausgereicht 	ser suficiente 	.	v
+behaupten 	afirmar 	Das kann er zwar behaupten, aber nicht beweisen. 	behauptete, behauptet 	sostener 	.	v
+bemerken 	darse cuenta 	Niemand bemerkte, dass er den Raum verließ. 	bemerkte, bemerkt 	.	.	v
+brennen 	arder 	Die Holzhütte brennt.  	brannte, gebrannt 	.	.	v
+drehen 	girar 	ein Rad drehen 	drehte, gedreht 	también filmar, rodar una película: Sie dreht gerade in Hollywood. 	.	v
+melden 	informar 	Der Rundfunk meldet schwere Sturmböen an der Küste. 	meldete, gemeldet 	comunicar 	.	v
+an etw schuld sein 	tener la culpa de algo
+warnen 	avisar 	Das Schild soll vor Taschendieben warnen. 	warnte, gewarnt 	.	.	v
+verlassen 	abandonar 	Warum habt ihr die Party so früh verlassen? Sie hat ihren Mann verlassen. 	verließ, verlassen 	.	.	v
+sich verlieben 	enamorarse 	.	verliebte, verlieb 	.	.	v
+vermuten 	suponer 	Man vermutet Brandstiftung als Ursache. 	vermutete, vermutet 	presumir 	.	v
+ängstlich 	miedoso 	.	.	temeroso 	.	adj
+aufgeregt 	excitado 	.	.	agitado, nervioso 	.	adj
+spannend 	fascinante 	.	.	emocionante 	.	adj
+ausgerechnet 	precisamente 	.	.	justamente 	.	adv
+bereit 	preparado	.	.	.	.	adj
+jedenfalls 	en todo caso
+jedes Mal 	cada vez
+jedoch 	sin embargo 	Ich habe ihm mehrmals geschrieben, er hat jedoch nie geantwortet. Eine Antwort auf diese Frage hatte er jedoch nicht. 	.	pero 	.	adv
+knapp 	escaso 	Die Portionen waren in diesem Lokal eher knapp bemessen 	.	limitado 	.	adj
+tatsächlich 	real 	der tatsächliche Ablauf der Ereignisse. 	.	verdadero 	.	adj 
+vergeblich 	inútil 	ein vergeblicher Versuch 	.	en vano 	.	adj
+vorher 	antes 	Am Abend vorher habe ich sie noch kurz gesehen. .	.	adv
+der Auftrag 	encargo 	einen Auftrag an eine Firma vergeben	.	orden, pedido 	¨-e 	sust
+der Betrieb 	funcionamiento 	Der Automat ist außer Betrieb. 	.	empresa, taller 	-e 	sust
+die Forschung 	investigación 	.	.	.	-en 	sust
+das Gehalt 	contenido 	.	.	salario 	¨-er	sust
+der Ingenieur 	ingeniero 	.	.	.	-e 	sust
+die Ingenieurin 	ingeniera 	.	.	.	-nen 	sust
+das Interesse 	interés 	.	.	.	-n 	sust
+die Produktion 	producción 	.	.	.	-en 	sust
+das Projekt 	proyecto 	.	.	.	-e 	sust
+die Tätigkeit 	actividad 	.	.	trabajo 	-en 	sust
+das Team 	equipo 	.	.	.	-s 	sust
+beraten 	aconsejar 	.	beriet, beraten 	asesorar 	.	v
+betreuen 	atender 	Die Pflegerin betreut die alte Dame. 	betreute, betreut 	ocuparse, asistir 	.	v
+sich bewerben 	soliticar un trabajo 	Er hat sich in dieser Firma schon einmal beworben. 	bewarb, beworben 	presentarse a 	.	v
+entwickeln 	desarrollar 	.	entwickelte, entwickelt 	.	.	v
+erledigen 	llevar a cabo 	Ich habe noch einiges zu erledigen. 	erledigte, erledigt 	hacer, resolver; liquidar, eliminar 	.	v
+gründen 	basarse 	Meine Hoffnungen gründen auf der Annahme, dass... 	gründete, gegründet 	fundar, crear 	.	v
+leiten  	dirigir 	Die Polizei leitet den Verkehr am Stadtzentrum vorbei. 	leitete, geleitet 	presidir 	.	v
+produzieren 	producir 	Die Firma produziert seit zehn Jahren Computer. 	produzierte, produziert 	.	.	v
+unterstützen 	apoyar 	jemanden finanziell unterstützen 	unterstützte, untersützt 	respaldar, ayudar; favorecer, fomentar 	.	v
+die Angabe 	indicación 	.	.	instrucción; indicación, información 	-n 	sust
+die Anzeige 	anuncio 	.	.	.	-n 	sust
+die Freude 	alegría 	.	.	placer 	-n 	sust
+die Gelegenheit 	ocasión 	.	.	.	-en 	sust
+die Hochschule 	escuela superior 	.	.	.	-en 	sust
+die Lösung 	solución 	.	.	.	-en 	sust
+der Misserfolg 	fracaso 	.	.	.	-e 	sust
+die Psychologie 	psicología 	.	.	.	(ohne pl) 	sust
+der Rest 	resto 	.	.	.	-e 	sust 
+der Stein 	piedra 	.	.	cálculo 	-e 	sust
+der Stiefel 	bota 	.	. 	.	- 	sust
+analysieren 	analizar 	.	analysierte, analysiert 	.	.	v
+anstrengen 	cansar 	Die Arbeit strengt sie sehr an. 	strengte an, angestrengt 	fatigar 	.	v
+sich anstrengen 	esforzarse 	Sie muss sich sehr anstrengen, um die Versetzung zu schaffen. 	strengt an, angestrengt 	esmerarse 	.	v
+dienen 	servir 	Er hat viele Jahre bei seinem Herrn gedient. beim Militär dienen. Wozu dient das? 	diente, gedient 	.	.	v
+sich einstellen auf 	preparase para 	Flugreisende müssen sich auf längere Wartezeiten einstellen. 	stellte ein, eingestellt 	también adaptarse a, acomodarse a 	.	v
+gewöhnen 	acostumbrar a 	Er musste die Katze erst an sich gewöhnen. 	gewöhnte, gewöhnt 	+an
+sich gewöhnen 	acostumbrarse a 	Die Augen müssen sich erst an die Dunkelheit gewöhnen. 	+an. imponerse a, familiarizarse con, aclimatarse a	.	v
+klagen 	quejarse de 	Er klagte ihr sein Leid/seine Not. 	klagte, geklagt 	+über,  lamentarse de 	.	v
+nachdenken 	reflexionar 	Über den Unfall hatte sie später viel nachgedacht. 	dachte nach, nachgedacht	.	.	v
+umarmen 	abrazar 	Lass dich umarmen! 	umarmte, umarmt 	.	.	v
+unterscheiden 	distinguir 	Ich kann die beiden Geschwister nicht unterscheiden. 	unterschied, unterschieden 	diferenciar 	.	v
+vorhaben 	proponerse 	Habt ihr am Wochenende schon etwas vor? 	hatte vor, vorgehabt 	tener intención de 	.	v
+aufmerksam 	atento 	.	.	.	.	adj
+besondere 	especial 	.	.	.	.	adj
+bunt 	multicolor 	.	.	de varios colores 	.	adj
+einige 	alguno 	In einigen Tagen kommt er zurück.	.	.	.	pron indef
+realistisch 	realista 	.	.	.	. 	adj
+üblich 	usual 	Das ist nur die übliche Streiterei zwischen den beiden.	.	habitual 	.	adj
+zahlreich 	numeroso 	.	.	.	.	adj
+einander 	el uno al otro
+jeweils 	cada vez 	Der Beitrag wird jeweils am Monatsende einkassiert. 	.	~~jedes Mal 	.	adv
+quer 	atravesado 	.	.	en sentido transversal 	.	adv
+rasen 	ir a toda pastilla 	.	raste, gerast 	.	.	v
+empfinden 	sentir 	Er empfand tiefe Gefühle für sie. 	empfand, empfungen 	experimentar 	.	v
+das Empfinden 	sensación 	.	.	olfato 	(ohne pl) 	sust
+rücken 	hacer sitio 	.	Er rückte den Schrank zur Seite. 	rückte, gerückt 	.	.	v
+beeinflussen 	influir  	Er ist sehr stark durch seinen Lehrer beeinflusst. 	beeinflusste, beeinflusst 	.	.	v
+der Einfluss 	influencia 	.	.	.	¨-e 	sust
+gewährleisten 	asegurar 	Wir haben einen glatten Übergang gewährleistet. Die Sicherheit der Passagiere war zu jedem Zeitpunkt gewährleistet. 	gewährleistete, gewährleistet 	garantizar 	.	v
+die Gewährleistung 	garantía 	.	.	. 	-en 	sust
+beinhalten 	incluir 	Das Schreiben beinhaltet, dass Ihr Antrag abgelehnt wurde. 	beinhaltete, beinhaltet 	contener 	.	v
+steuern 	conducir 	Er steuert ein Auto. 	steuerte, gesteuert 	pilotar; influir 	.	v
+das Steuer 	volante 	.	.	timón 	- 	sust
+die Steuer 	impuesto 	.	.	.	-n 	sust
+der Kopierer 	fotocopiadora 	.	. 	.	- 	sust
+der Assistent 	asistente 	.	.	.	-en 	sust
+der Vortrag 	discurso 	Der Redner bestach auch durch seinen temperamentvollen Vortrag. 	.	discurso, conferencia; (Musik) interpretación, ejecución (Schauspieler)		¨-e 	sust
+das Seminar 	seminario 	.	.	.	-e 	sust
+die Mitschrift 	transcripción de un discurso	.	.	.	-en 	sust
+die Klausur 	examen escrito 	.	.	.	-en 	sust
+die Prüfung 	examen 	.	.	escrito, oral o práctico	-en 	sust
+die Vorlesung 	clase 	.	.	curso, conferencia 	-en 	sust
+der Dozent 	profesor universitario 	.	.	.	-en 	sust
+der Abschluss 	cierre 	.	.	conclusión, diploma, título 	¨-e 	sust
+die Aufgabe 	tarea 	.	.	, -n
+die Mensa 	comedor universitario 	.	.	.	Mensen 	sust
+das Wohnheim 	residencia 	.	.	.	-e 	sust
+die Vorbereitung 	preparación 	.	.	.	-en 	sust
+vorbereiten 	preparar 	Ich bereite mich gerade auf mein Examen vor. 	bereitete vor, vorbereitet 	.	.	v
+der Drucker 	impresora 	.	.	.	- 	sust
+das Kennwort 	contraseña 	.	.	.	¨-er 	sust
+die Geheimzahl 	número secreto 	.	.	.	-en 	sust
+das Protokoll 	protocolo 	.	.	.	-en 	sust
+die Kündigung 	rescisión 	.	.	de un contrato (gas, luz...), autodespido 	-en 	sust
+das Labor 	laboratorio 	.	.	.	-s 	sust
+der Ordner 	carpeta 	.	.	archivador 	- 	sust
+der Versuch 	intento 	.	.	.	-e 	sust
+der Bleistift 	lápiz 	.	.	.	-e 	sust
