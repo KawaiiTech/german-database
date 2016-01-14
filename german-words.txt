@@ -89,7 +89,7 @@ das Rathaus 	ayuntamiento 	.	.	.	¨-er 	sust
 die Stadtführung 	visita guiada en la ciudad 	.	.	.	-en 	sust
 der Stadtplan 	mapa de la ciudad 	.	.	.	¨-e 	sust
 die Stadtrundfahrt 	vuelta por la ciudad 	.	.	.	-en 	sust 
-das Ticket 	tíquet 	.	.	.	-s 	sust
+der Ticket 	tíquet 	.	.	.	-s 	sust
 der Tourist 	turista	.	.	.	-en 	sust
 das Zentrum 	centro 	.	.	.	Zentren 	sust
 unternehmen 	realizar	Heute Abend wollen wir gemeinsam etwas unternehmen. 	unternahm, unternommen 	hacer algo por propio placer 	.	v
@@ -273,13 +273,13 @@ der Saft 	zumo 	.	.	.	¨-e 	sust
 der Salat 	ensalada 	.	.	.	-e 	sust
 die Tomate 	tomate 	.	.	.	-n 	sust
 die Traube 	uva 	.	.	.	-n 	sust
-die Wurst 	salchucha 	.	.	.	¨-e 	sust
+die Wurst 	salchicha 	.	.	.	¨-e 	sust
 das Bier 	cerveza 	.	.	.	-e 	sust
 die Butter 	mantequilla 	.	.	.	(ohne pl) 	sust
-die Cola 	cola 	.	.	bebida 	-s 	sust
+die Cola 	bebida de cola 	.	.	bebida 	-s 	sust
 das Fleisch 	carne 	.	.	.	(ohne pl) 	sust
 das Gemüse 	verdura 	.	.	.	-  	sust
--der Kaffee 	café 	.	.	.	 -s 	sust
+der Kaffee 	café 	.	.	.	 -s 	sust
 der Käse 	queso 	.	.	.	- 	sust
 die Milch 	leche 	.	.	.	(ohne pl) 	sust
 das Wasser 	agua 	.	.	.	- 	sust
@@ -298,10 +298,10 @@ die Suppe 	sopa 	.	.	.	-n 	sust
 die Soße 	salsa 	.	.	.	-n 	sust
 der Durst  	sed 	.	.	.	(ohne pl) 	sust
 der Hunger	hambre 	.	.	.	(ohne pl) 	sust
-der Eindruck	impresión	.	.	.	-drücke	sust
+der Eindruck	impresión	.	.	.	¨-e	sust
 zustimmen	dar la razón	.	stimmte zu, zugestimmt	.	.	v
 vorschlagen	proponer	.	schlug vor, vorgeschlagen	.	.	v
-ziemlich	bastante 
+ziemlich	bastante	.	.	.	.	adj
 dabeihaben	tener [o llevar] consigo	.	hatte dabei, dabeigehabt	.	.	v
 das Pech	desgracia, pez	.	.	.	(ohne pl)	sust
 schmecken 	saber 	.	schmeckte, geschmeckt 	sabor	.	v
@@ -338,7 +338,7 @@ interessant 	interesante 	.	.	.	.	adj
 klein 	pequeño 	.	.	.	.	adj
 modern 	Moderno 	.	.	.	.	adj
 neu 	nuevo 	.	.	.	.	adj
-praktisch 	práctico 	.	.	.	adj
+praktisch 	práctico 	.	.	.	.	adj
 preiswert	de buen precio 	.	.	.	.	adj
 ruhig 	quieto 	.	.	.	.	adj
 schmal 	estrecho 	.	.	.	.	adj 
@@ -573,13 +573,13 @@ einmal 	una vez 	.	.	.	. 	adv
 früher 	antes, más pronto 	.	.	.	. 	adj/adv
 jede 	cada uno 	.	.	.	.	pron indef
 nie 	nunca 	.	.	.	. 	adv
-oft 	a menudo 	.	.	.	.	
+oft 	a menudo 	.	.	.	.	adv
 sicher 	seguro 	.	.	.	.	adj
 sogar 	incluso 
-gestern 	ayer
+gestern 	ayer 	.	.	.	.	adv
 nach Hause 	a casa
-wieder 	otra vez
-klar 	claro
+wieder 	otra vez 	.	.	.	.	adv
+klar 	claro	.	.	.	.	adj
 die Abteilung 	departamento 	.	.	de una tienda	-en 	sust
 der Arbeiter 	trabajador 	.	.	.	- 	sust
 der Job 	trabajo 	.	.	.	-s 	sust
@@ -598,17 +598,16 @@ bekommen 	recibir 	.	bekam, bekommen 	.	.	v
 dauern 	durar 	.	dauerte, gedauert 	.	.	v
 enden 	terminar 	.	endete, geendet 	.	.	v
 heiraten 	casarse 	.	heiratete, geheiratet 	.	.	v
-fertig	terminado, listo
+fertig	terminado 	.	.	.	.	adj
 wütend 	furioso 	.	.	.	.	adj
-beide	ambos 
-draußen 	fuera, lejos
-gerade 	recto 
-überhaupt 	en general 
+beide	ambos 	.	.	.	.	pron
+draußen 	fuera 	.	.	.	.	adv
+gerade 	recto 	.	.	.	.	adj
 die Ermäßigung 	rebaja 	.	.	.	-en 	sust
 abgeben 	dejar en depósito 	Er gibt den Mantel an der Garderobe ab. Bitte geben Sie ihren Schlüssel an der Rezeption ab. 	gab ab, abgegeben 	. 	.	v
 bedeuten 	significar 	.	bedeutete, bedeutet 	.	.	v
 dürfen 	poder, tener permiso para 	.	durfte, gedurft 	.	.	v
-bekannt 	conocido 
+bekannt 	conocido 	.	.	.	.	adj
 absagen 	anular, cancelar 	.	sagte ab, abgesagt	.	.	v
 das Fieber 	fiebre 	.	.	.	-	sust
 die Gesundheit 	salud 	.	.	.	(ohne pl) 	sust
@@ -673,7 +672,7 @@ der Laden 	tienda	.	.	.	¨- 	sust
 der Parkplatz 	aparcamiento 	.	.	.	¨-e 	sust
 die Polizei 	policía 	.	.	.	-en 	sust
 die Post 	correos 	.	.	.	(ohne pl) 	sust
-Achtung 	atención
+die Achtung 	atención 	.	.	.	(ohne pl) 	sust
 die Autobahn 	autopista 	.	.	.	-en 	sust
 der Baum 	árbol 	.	.	.	¨-e 	sust
 der die Jugendliche	adolescente 	.	.	.	-n 	sust
@@ -803,7 +802,7 @@ wählen 	elegir 	.	wählte, gewählt 	.	.	v
 betrunken	borracho 
 insgesamt	en total 
 möglichst	a ser posible 
-das Aerobic 	aeróbic 	.	.	- 	sust
+das Aerobic 	aeróbic 	.	.	.	- 	sust
 das Eishockey 	hockey sobre hielo 	.	.	.	- 	sust
 das Golf 	golf 	.	.	.	- 	sust
 das Handball 	balonmano 	.	.	.	- 	sust
@@ -833,7 +832,7 @@ die Antwältin 	abogada 	.	.	.	-nen 	sust
 der Arbeitgeber 	empresario 	.	.	.	- 	sust
 der Arbeitnehmer 	empleado 	.	.	.	- 	sust
 der Arbeitsplatz 	lugar de trabajo 	.	.	.	¨-e 	sust
-der die Auszubildende àprendiz 	.	.	.	-n 	sust
+der Auszubildende 	aprendiz 	.	.	der/die	-n 	sust
 der Bauer 	agricultor	.	.	campesino 	- 	sust
 die Bewerbung 	solicitud de trabajo 	.	.	.	-en 	sust
 der Mechaniker 	mecánico 	.	.	.	- 	sust
@@ -963,7 +962,7 @@ der Bildschirm 	monitor 	.	.	.	-e 	sust
 die Couch 	sofá-cama 	.	.	.	-en/s 	sust
 die Figur 	figura 	.	.	.	-en 	sust
 das Geschirr	vajilla 	.	.	.	-e 	sust
-der Fotoapparat cámara 	.	.	.	-e 	sust
+der Fotoapparat 	cámara 	.	.	.	-e 	sust
 die Anlage 	dispositivo 	.	.	.	-n 	sust
 die Platte 	bandeja  	.	.	.	-n 	sust
 der Schreibtisch 	escritorio 	.	.	.	-e 	sust
@@ -1044,7 +1043,7 @@ kriegen 	obtener 	Ich kriege noch 20 Euro von dir. 	kriegte, gekriegt 	lograr, c
 liefern 	entregar 	.	lieferte, geliefert	.	.	v
 nützen 	servir 	Wir nutzen moderne Medien wie das Internet. 	nützte, genützt 	aprovechar	.	v
 testen 	probar 	.	testete, getestet 	.	.	v
-transportieren 	transportar 	.	transportierte, transportierte.	.	v
+transportieren 	transportar 	.	transportierte, transportierte.	.	.	v
 versprechen 	prometer 	Sie hat mir versprochen zu kommen. 	versprach, versprochen 	.	.	v
 wiegen 	pesar 	.	wog, gewogen 	mover, agitar 	.	v
 aktuell 	actual 	.	.	.	.	adj
@@ -1181,7 +1180,7 @@ von... an 	a partir de 	.	.	~ab 	.
 der Geldautomat 	cajero automático 	.	.	.	-en 	sust
 das Konto 	cuenta 	.	.	del banco 	Konten 	sust
 der Zins 	interés 	.	.	dinero 	-en 	sust
-Geld abheben 	sacar dinero 	. 	hob ab, abgehoben 	.	v
+Geld abheben 	sacar dinero 	. 	hob ab, abgehoben 	.	.	v
 Geld einzahlen 	ingresar dinero 	.	zahlte ein, eingezahlt 	.	.	v
 überweisen 	transferir 	.	überwies, überwiesen 	.	.	v
 die EC-Karte 	tarjeta electrónica 	.	.	.	-n 	sust
@@ -1410,8 +1409,8 @@ anstrengen 	cansar 	Die Arbeit strengt sie sehr an. 	strengte an, angestrengt 	f
 sich anstrengen 	esforzarse 	Sie muss sich sehr anstrengen, um die Versetzung zu schaffen. 	strengt an, angestrengt 	esmerarse 	.	v
 dienen 	servir 	Er hat viele Jahre bei seinem Herrn gedient. beim Militär dienen. Wozu dient das? 	diente, gedient 	.	.	v
 sich einstellen auf 	preparase para 	Flugreisende müssen sich auf längere Wartezeiten einstellen. 	stellte ein, eingestellt 	también adaptarse a, acomodarse a 	.	v
-gewöhnen 	acostumbrar a 	Er musste die Katze erst an sich gewöhnen. 	gewöhnte, gewöhnt 	+an
-sich gewöhnen 	acostumbrarse a 	Die Augen müssen sich erst an die Dunkelheit gewöhnen. 	+an. imponerse a, familiarizarse con, aclimatarse a	.	v
+gewöhnen 	acostumbrar a 	Er musste die Katze erst an sich gewöhnen. 	gewöhnte, gewöhnt 	+an 	.
+sich gewöhnen 	acostumbrarse a 	Die Augen müssen sich erst an die Dunkelheit gewöhnen. 	gewöhnte, gewöhnt 	+an. imponerse a, familiarizarse con, aclimatarse a	.	v
 klagen 	quejarse de 	Er klagte ihr sein Leid/seine Not. 	klagte, geklagt 	+über,  lamentarse de 	.	v
 nachdenken 	reflexionar 	Über den Unfall hatte sie später viel nachgedacht. 	dachte nach, nachgedacht	.	.	v
 umarmen 	abrazar 	Lass dich umarmen! 	umarmte, umarmt 	.	.	v
@@ -1441,7 +1440,7 @@ das Steuer 	volante 	.	.	timón 	- 	sust
 die Steuer 	impuesto 	.	.	.	-n 	sust
 der Kopierer 	fotocopiadora 	.	. 	.	- 	sust
 der Assistent 	asistente 	.	.	.	-en 	sust
-der Vortrag 	discurso 	Der Redner bestach auch durch seinen temperamentvollen Vortrag. 	.	discurso, conferencia; (Musik) interpretación, ejecución (Schauspieler)		¨-e 	sust
+der Vortrag 	discurso 	Der Redner bestach auch durch seinen temperamentvollen Vortrag. 	.	discurso, conferencia; (Musik) interpretación, ejecución (Schauspieler)	¨-e 	sust
 das Seminar 	seminario 	.	.	.	-e 	sust
 die Mitschrift 	transcripción de un discurso	.	.	.	-en 	sust
 die Klausur 	examen escrito 	.	.	.	-en 	sust
