@@ -43,7 +43,7 @@ der See 	lago 	.	.	die See, - = el mar 	-n 	sust
 die Ortsangabe 	indicación de lugar 	.	.	.	-n 	sust
 die Antwort 	respuesta 	.	.	.	-en 	sust
 die Blume 	flor 	.	.	.	-n 	sust
-der Erwaschene 	adulto 	.	.	.	-n 	sust
+der Erwachsene 	adulto 	.	.	.	-n 	sust
 das Fest 	fiesta 	.	.	.	-e 	sust
 der Führerschein 	permiso de conducir 	.	.	.	-e 	sust
 die Hochzeit 	boda 	.	.	.	-en 	sust 
