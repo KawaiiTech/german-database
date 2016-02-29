@@ -71,7 +71,7 @@ selbst 	mismo 	.	.	.	.	pronombre demostrativo
 wenig 	poco 	.	.	.	.	adv/adj/pron indef
 der Dom 	catedral 	.	.	.	-e 	sust
 der Eintritt 	entrada 	.	.	.	-e 	sust
-die Führung 	dirección 	.	.	de una empresa/tienda 	-en 	sust 
+die Führung 	dirección (trabajo) 	.	.	de una empresa/tienda 	-en 	sust 
 die Gebühr 	tasa 	.	.	.	-en 	sust  
 das Konzert 	concierto	.	.	.	-e 	sust
 die Sehenswürdigkeit 	monumento 	.	.	. 	-en 	sust
@@ -112,7 +112,7 @@ der Fahrer 	conductor 	.	.	.	- 	sust
 das Glas 	vidrio, vaso 	.	.	.	¨-er 	sust
 der Haushalt 	hogar 	.	.	.	- 	sust
 die Höhe 	altura 	.	.	.	-n 	sust
-die Kasse 	caja 	.	.	supermercado 	-n 	sust
+die Kasse 	caja (pagar) 	.	.	supermercado 	-n 	sust
 der König 	rey 	.	.	.	-e 	sust
 der Meter 	metro 	.	.	unidad de longitud 	- 	sust
 die Minute 	minuto 	.	.	.	-n 	sust
@@ -158,7 +158,7 @@ verbieten 	prohibir 	.	verbot verboten 	.	.	v
 jemand 	alguien	.	.	.	.	pron indef
 andere 	otro 	.	.	.	.	pron indef
 ohne 	sin 	.	.	.	.	prep + akk
-täglich 	cada día 	.	.	.	.	adv
+täglich 	diariamente 	.	.	.	.	adv
 unbedingt 	sin falta 	.	.	.	.	adv
 unterwegs 	de camino 	.	.	.	.	adv
 zuerst 	primero 	.	.	.	.	adv
