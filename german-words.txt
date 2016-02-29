@@ -304,7 +304,7 @@ vorschlagen	proponer	.	schlug vor, vorgeschlagen	.	.	v
 ziemlich	bastante	.	.	.	.	adj
 dabeihaben	tener [o llevar] consigo	.	hatte dabei, dabeigehabt	.	.	v
 das Pech	desgracia, pez	.	.	.	(ohne pl)	sust
-schmecken 	saber 	.	schmeckte, geschmeckt 	sabor	.	v
+schmecken 	saber (sabor) 	.	schmeckte, geschmeckt 	sabor	.	v
 der Cent 	céntimo	.	.	.	-s 	sust
 das Gewicht 	peso 	.	.	.	-e 	sust
 der Gramm 	gramo 	.	.	.	-e 	sust
